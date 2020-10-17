@@ -1,0 +1,3616 @@
+Residence,Region,Sub-Region,Period,Study
+Unstated,,,2011-01,0
+France,Europe,,2011-01,99
+Germany,Europe,,2011-01,62
+Italy,Europe,,2011-01,10
+Netherlands,Europe,,2011-01,15
+Switzerland,Europe,,2011-01,4
+Spain,Europe,,2011-01,15
+United Kingdom,Europe,,2011-01,22
+Belgium,Europe,,2011-01,7
+Austria,Europe,,2011-01,10
+Sweden,Europe,,2011-01,18
+Russian Federation,Europe,,2011-01,18
+"Others, Europe",Europe,,2011-01,49
+Australia,Oceania,,2011-01,35
+New Zealand,Oceania,,2011-01,4
+"Others, Oceania",Oceania,,2011-01,6
+S. Africa,Africa,,2011-01,6
+Greece,Europe,,2011-01,1
+"Others, America",America,,2011-01,146
+"Others, Africa",Africa,,2011-01,21
+Brazil,America,,2011-01,14
+Argentina,America,,2011-01,2
+HongKong. Macao,Asia,,2011-01,116
+Mainland China,Asia,,2011-01,166
+Japan,Asia,,2011-01,206
+"Korea,Republic of",Asia,,2011-01,311
+Middle East,Asia,,2011-01,11
+Malaysia,Asia,Southeast Asia,2011-01,113
+Singapore,Asia,Southeast Asia,2011-01,51
+India,Asia,,2011-01,21
+Philippines,Asia,Southeast Asia,2011-01,34
+Thailand,Asia,Southeast Asia,2011-01,49
+"Others, Southeast Asia",Asia,Southeast Asia,2011-01,64
+"Others, Asia",Asia,,2011-01,43
+Canada,America,,2011-01,35
+United States of America,America,,2011-01,296
+Mexico,America,,2011-01,7
+Indonesia,Asia,Southeast Asia,2011-01,71
+"Others, Southeast Asia",Asia,Southeast Asia,2011-02,1382
+Brazil,America,,2011-02,13
+Mexico,America,,2011-02,13
+United States of America,America,,2011-02,440
+Canada,America,,2011-02,101
+"Others, Asia",Asia,,2011-02,267
+Thailand,Asia,Southeast Asia,2011-02,314
+Japan,Asia,,2011-02,764
+Indonesia,Asia,Southeast Asia,2011-02,942
+Singapore,Asia,Southeast Asia,2011-02,190
+Malaysia,Asia,Southeast Asia,2011-02,5617
+Middle East,Asia,,2011-02,37
+India,Asia,,2011-02,97
+"Korea,Republic of",Asia,,2011-02,624
+Argentina,America,,2011-02,2
+Philippines,Asia,Southeast Asia,2011-02,155
+"Others, America",America,,2011-02,299
+Austria,Europe,,2011-02,15
+France,Europe,,2011-02,243
+Mainland China,Asia,,2011-02,1623
+Unstated,,,2011-02,1
+S. Africa,Africa,,2011-02,11
+"Others, Oceania",Oceania,,2011-02,10
+New Zealand,Oceania,,2011-02,5
+Australia,Oceania,,2011-02,48
+"Others, Europe",Europe,,2011-02,202
+Belgium,Europe,,2011-02,12
+Russian Federation,Europe,,2011-02,73
+Greece,Europe,,2011-02,1
+United Kingdom,Europe,,2011-02,41
+Spain,Europe,,2011-02,33
+Switzerland,Europe,,2011-02,18
+Netherlands,Europe,,2011-02,38
+Italy,Europe,,2011-02,26
+Germany,Europe,,2011-02,119
+Sweden,Europe,,2011-02,40
+HongKong. Macao,Asia,,2011-02,1154
+"Others, Africa",Africa,,2011-02,50
+Unstated,,,2011-03,1
+Mexico,America,,2011-03,12
+United States of America,America,,2011-03,304
+Canada,America,,2011-03,29
+"Others, Asia",Asia,,2011-03,72
+"Others, Southeast Asia",Asia,Southeast Asia,2011-03,204
+Thailand,Asia,Southeast Asia,2011-03,356
+Philippines,Asia,Southeast Asia,2011-03,27
+Indonesia,Asia,Southeast Asia,2011-03,109
+Singapore,Asia,Southeast Asia,2011-03,54
+Malaysia,Asia,Southeast Asia,2011-03,214
+Middle East,Asia,,2011-03,14
+India,Asia,,2011-03,42
+"Korea,Republic of",Asia,,2011-03,171
+Japan,Asia,,2011-03,360
+Mainland China,Asia,,2011-03,558
+Brazil,America,,2011-03,2
+Argentina,America,,2011-03,3
+HongKong. Macao,Asia,,2011-03,124
+Belgium,Europe,,2011-03,7
+"Others, America",America,,2011-03,104
+S. Africa,Africa,,2011-03,5
+"Others, Oceania",Oceania,,2011-03,6
+New Zealand,Oceania,,2011-03,13
+Australia,Oceania,,2011-03,30
+"Others, Europe",Europe,,2011-03,63
+Russian Federation,Europe,,2011-03,19
+Sweden,Europe,,2011-03,12
+"Others, Africa",Africa,,2011-03,15
+Austria,Europe,,2011-03,9
+United Kingdom,Europe,,2011-03,20
+Spain,Europe,,2011-03,10
+Switzerland,Europe,,2011-03,7
+Netherlands,Europe,,2011-03,9
+Italy,Europe,,2011-03,10
+Germany,Europe,,2011-03,63
+Greece,Europe,,2011-03,0
+France,Europe,,2011-03,51
+Spain,Europe,,2011-04,28
+United Kingdom,Europe,,2011-04,18
+Austria,Europe,,2011-04,3
+Greece,Europe,,2011-04,0
+Sweden,Europe,,2011-04,20
+Russian Federation,Europe,,2011-04,6
+"Others, Oceania",Oceania,,2011-04,7
+Australia,Oceania,,2011-04,55
+New Zealand,Oceania,,2011-04,6
+Switzerland,Europe,,2011-04,10
+S. Africa,Africa,,2011-04,2
+"Others, Africa",Africa,,2011-04,17
+Unstated,,,2011-04,0
+Japan,Asia,,2011-04,227
+Mainland China,Asia,,2011-04,116
+"Others, Europe",Europe,,2011-04,61
+Netherlands,Europe,,2011-04,16
+Belgium,Europe,,2011-04,8
+Germany,Europe,,2011-04,55
+HongKong. Macao,Asia,,2011-04,160
+Middle East,Asia,,2011-04,15
+Malaysia,Asia,Southeast Asia,2011-04,198
+Singapore,Asia,Southeast Asia,2011-04,34
+Indonesia,Asia,Southeast Asia,2011-04,99
+Philippines,Asia,Southeast Asia,2011-04,216
+Thailand,Asia,Southeast Asia,2011-04,204
+"Others, Southeast Asia",Asia,Southeast Asia,2011-04,148
+"Others, Asia",Asia,,2011-04,38
+Canada,America,,2011-04,47
+Mexico,America,,2011-04,10
+Brazil,America,,2011-04,4
+Argentina,America,,2011-04,2
+"Others, America",America,,2011-04,58
+France,Europe,,2011-04,119
+Italy,Europe,,2011-04,7
+United States of America,America,,2011-04,247
+"Korea,Republic of",Asia,,2011-04,163
+India,Asia,,2011-04,20
+Middle East,Asia,,2011-05,8
+Belgium,Europe,,2011-05,8
+"Others, America",America,,2011-05,69
+Argentina,America,,2011-05,0
+Brazil,America,,2011-05,8
+Mexico,America,,2011-05,7
+United States of America,America,,2011-05,410
+Canada,America,,2011-05,64
+"Others, Asia",Asia,,2011-05,29
+"Others, Southeast Asia",Asia,Southeast Asia,2011-05,144
+Thailand,Asia,Southeast Asia,2011-05,102
+Philippines,Asia,Southeast Asia,2011-05,32
+Indonesia,Asia,Southeast Asia,2011-05,95
+Singapore,Asia,Southeast Asia,2011-05,101
+France,Europe,,2011-05,101
+Germany,Europe,,2011-05,30
+Italy,Europe,,2011-05,5
+Netherlands,Europe,,2011-05,20
+Unstated,,,2011-05,0
+"Others, Africa",Africa,,2011-05,17
+S. Africa,Africa,,2011-05,3
+"Others, Oceania",Oceania,,2011-05,4
+New Zealand,Oceania,,2011-05,3
+Australia,Oceania,,2011-05,18
+Malaysia,Asia,Southeast Asia,2011-05,238
+"Others, Europe",Europe,,2011-05,58
+Sweden,Europe,,2011-05,15
+Greece,Europe,,2011-05,0
+Austria,Europe,,2011-05,6
+United Kingdom,Europe,,2011-05,36
+Spain,Europe,,2011-05,17
+Switzerland,Europe,,2011-05,9
+Russian Federation,Europe,,2011-05,27
+India,Asia,,2011-05,47
+"Korea,Republic of",Asia,,2011-05,221
+Japan,Asia,,2011-05,368
+Mainland China,Asia,,2011-05,255
+HongKong. Macao,Asia,,2011-05,140
+S. Africa,Africa,,2011-06,1
+Canada,America,,2011-06,62
+"Others, Asia",Asia,,2011-06,37
+"Others, Southeast Asia",Asia,Southeast Asia,2011-06,148
+Thailand,Asia,Southeast Asia,2011-06,112
+Philippines,Asia,Southeast Asia,2011-06,39
+Indonesia,Asia,Southeast Asia,2011-06,168
+Singapore,Asia,Southeast Asia,2011-06,80
+Middle East,Asia,,2011-06,37
+United States of America,America,,2011-06,627
+India,Asia,,2011-06,47
+"Korea,Republic of",Asia,,2011-06,189
+Japan,Asia,,2011-06,283
+Mainland China,Asia,,2011-06,126
+HongKong. Macao,Asia,,2011-06,164
+Malaysia,Asia,Southeast Asia,2011-06,177
+"Others, Oceania",Oceania,,2011-06,3
+Mexico,America,,2011-06,12
+Argentina,America,,2011-06,1
+"Others, Africa",Africa,,2011-06,12
+New Zealand,Oceania,,2011-06,3
+Australia,Oceania,,2011-06,26
+"Others, Europe",Europe,,2011-06,63
+Russian Federation,Europe,,2011-06,31
+Sweden,Europe,,2011-06,15
+Greece,Europe,,2011-06,0
+Austria,Europe,,2011-06,5
+United Kingdom,Europe,,2011-06,40
+Spain,Europe,,2011-06,22
+Switzerland,Europe,,2011-06,8
+Netherlands,Europe,,2011-06,18
+Italy,Europe,,2011-06,24
+Germany,Europe,,2011-06,34
+France,Europe,,2011-06,112
+Belgium,Europe,,2011-06,1
+"Others, America",America,,2011-06,74
+Brazil,America,,2011-06,5
+Unstated,,,2011-06,0
+"Others, Europe",Europe,,2011-07,120
+Mainland China,Asia,,2011-07,889
+"Others, America",America,,2011-07,73
+Argentina,America,,2011-07,8
+Brazil,America,,2011-07,4
+Mexico,America,,2011-07,11
+United States of America,America,,2011-07,638
+Canada,America,,2011-07,64
+Belgium,Europe,,2011-07,19
+HongKong. Macao,Asia,,2011-07,195
+Thailand,Asia,Southeast Asia,2011-07,158
+Philippines,Asia,Southeast Asia,2011-07,36
+Indonesia,Asia,Southeast Asia,2011-07,156
+Singapore,Asia,Southeast Asia,2011-07,49
+Malaysia,Asia,Southeast Asia,2011-07,431
+Middle East,Asia,,2011-07,18
+"Others, Southeast Asia",Asia,Southeast Asia,2011-07,334
+India,Asia,,2011-07,38
+France,Europe,,2011-07,128
+Italy,Europe,,2011-07,43
+Unstated,,,2011-07,0
+"Others, Africa",Africa,,2011-07,23
+S. Africa,Africa,,2011-07,5
+"Others, Oceania",Oceania,,2011-07,7
+New Zealand,Oceania,,2011-07,2
+Australia,Oceania,,2011-07,47
+Germany,Europe,,2011-07,101
+Russian Federation,Europe,,2011-07,54
+Greece,Europe,,2011-07,3
+Austria,Europe,,2011-07,20
+United Kingdom,Europe,,2011-07,26
+Spain,Europe,,2011-07,31
+Switzerland,Europe,,2011-07,11
+Netherlands,Europe,,2011-07,24
+Sweden,Europe,,2011-07,15
+"Korea,Republic of",Asia,,2011-07,404
+"Others, Asia",Asia,,2011-07,40
+Japan,Asia,,2011-07,409
+"Others, Africa",Africa,,2011-08,139
+United States of America,America,,2011-08,589
+Canada,America,,2011-08,83
+"Others, Asia",Asia,,2011-08,152
+"Others, Southeast Asia",Asia,Southeast Asia,2011-08,548
+Thailand,Asia,Southeast Asia,2011-08,242
+Philippines,Asia,Southeast Asia,2011-08,83
+Indonesia,Asia,Southeast Asia,2011-08,456
+S. Africa,Africa,,2011-08,7
+Malaysia,Asia,Southeast Asia,2011-08,1144
+Middle East,Asia,,2011-08,45
+India,Asia,,2011-08,49
+"Korea,Republic of",Asia,,2011-08,429
+Japan,Asia,,2011-08,841
+Mainland China,Asia,,2011-08,752
+HongKong. Macao,Asia,,2011-08,517
+Mexico,America,,2011-08,40
+Brazil,America,,2011-08,51
+Singapore,Asia,Southeast Asia,2011-08,119
+"Others, America",America,,2011-08,449
+Argentina,America,,2011-08,5
+Unstated,,,2011-08,4
+"Others, Oceania",Oceania,,2011-08,38
+New Zealand,Oceania,,2011-08,14
+Australia,Oceania,,2011-08,38
+"Others, Europe",Europe,,2011-08,181
+Sweden,Europe,,2011-08,50
+Greece,Europe,,2011-08,1
+Russian Federation,Europe,,2011-08,67
+France,Europe,,2011-08,181
+United Kingdom,Europe,,2011-08,48
+Spain,Europe,,2011-08,37
+Switzerland,Europe,,2011-08,17
+Netherlands,Europe,,2011-08,35
+Italy,Europe,,2011-08,41
+Germany,Europe,,2011-08,176
+Austria,Europe,,2011-08,32
+Belgium,Europe,,2011-08,19
+"Others, Asia",Asia,,2011-09,348
+Canada,America,,2011-09,61
+United States of America,America,,2011-09,390
+"Others, America",America,,2011-09,353
+Brazil,America,,2011-09,12
+Argentina,America,,2011-09,3
+"Others, Southeast Asia",Asia,Southeast Asia,2011-09,1067
+Mexico,America,,2011-09,12
+Thailand,Asia,Southeast Asia,2011-09,250
+Mainland China,Asia,,2011-09,3799
+Indonesia,Asia,Southeast Asia,2011-09,763
+Singapore,Asia,Southeast Asia,2011-09,182
+Malaysia,Asia,Southeast Asia,2011-09,3470
+Middle East,Asia,,2011-09,94
+India,Asia,,2011-09,141
+"Korea,Republic of",Asia,,2011-09,557
+Japan,Asia,,2011-09,634
+Belgium,Europe,,2011-09,12
+Philippines,Asia,Southeast Asia,2011-09,111
+France,Europe,,2011-09,254
+HongKong. Macao,Asia,,2011-09,902
+Italy,Europe,,2011-09,33
+Unstated,,,2011-09,0
+"Others, Africa",Africa,,2011-09,149
+S. Africa,Africa,,2011-09,10
+"Others, Oceania",Oceania,,2011-09,19
+New Zealand,Oceania,,2011-09,3
+Australia,Oceania,,2011-09,33
+"Others, Europe",Europe,,2011-09,200
+Germany,Europe,,2011-09,144
+Sweden,Europe,,2011-09,51
+Greece,Europe,,2011-09,0
+Austria,Europe,,2011-09,20
+United Kingdom,Europe,,2011-09,30
+Spain,Europe,,2011-09,33
+Switzerland,Europe,,2011-09,21
+Netherlands,Europe,,2011-09,46
+Russian Federation,Europe,,2011-09,92
+Brazil,America,,2011-10,3
+Mexico,America,,2011-10,3
+United States of America,America,,2011-10,151
+Canada,America,,2011-10,29
+"Others, Asia",Asia,,2011-10,63
+"Others, Southeast Asia",Asia,Southeast Asia,2011-10,252
+Thailand,Asia,Southeast Asia,2011-10,109
+Singapore,Asia,Southeast Asia,2011-10,108
+Indonesia,Asia,Southeast Asia,2011-10,110
+Argentina,America,,2011-10,2
+Malaysia,Asia,Southeast Asia,2011-10,210
+Middle East,Asia,,2011-10,13
+India,Asia,,2011-10,48
+"Korea,Republic of",Asia,,2011-10,174
+Japan,Asia,,2011-10,282
+Philippines,Asia,Southeast Asia,2011-10,55
+"Others, America",America,,2011-10,71
+Italy,Europe,,2011-10,19
+France,Europe,,2011-10,122
+Unstated,,,2011-10,0
+"Others, Africa",Africa,,2011-10,32
+S. Africa,Africa,,2011-10,2
+"Others, Oceania",Oceania,,2011-10,8
+New Zealand,Oceania,,2011-10,3
+Australia,Oceania,,2011-10,18
+"Others, Europe",Europe,,2011-10,61
+Belgium,Europe,,2011-10,6
+Russian Federation,Europe,,2011-10,12
+Greece,Europe,,2011-10,0
+Mainland China,Asia,,2011-10,279
+United Kingdom,Europe,,2011-10,23
+Spain,Europe,,2011-10,28
+Switzerland,Europe,,2011-10,9
+Netherlands,Europe,,2011-10,23
+Germany,Europe,,2011-10,58
+Sweden,Europe,,2011-10,15
+Austria,Europe,,2011-10,9
+HongKong. Macao,Asia,,2011-10,96
+"Others, Southeast Asia",Asia,Southeast Asia,2011-11,156
+Argentina,America,,2011-11,2
+Mexico,America,,2011-11,4
+United States of America,America,,2011-11,207
+Canada,America,,2011-11,48
+"Others, Asia",Asia,,2011-11,58
+Thailand,Asia,Southeast Asia,2011-11,71
+Philippines,Asia,Southeast Asia,2011-11,53
+"Others, America",America,,2011-11,47
+Indonesia,Asia,Southeast Asia,2011-11,113
+Malaysia,Asia,Southeast Asia,2011-11,254
+Middle East,Asia,,2011-11,13
+India,Asia,,2011-11,41
+"Korea,Republic of",Asia,,2011-11,248
+Japan,Asia,,2011-11,402
+Mainland China,Asia,,2011-11,252
+HongKong. Macao,Asia,,2011-11,105
+Singapore,Asia,Southeast Asia,2011-11,249
+Belgium,Europe,,2011-11,8
+Brazil,America,,2011-11,2
+Germany,Europe,,2011-11,101
+Unstated,,,2011-11,0
+"Others, Africa",Africa,,2011-11,15
+S. Africa,Africa,,2011-11,22
+"Others, Oceania",Oceania,,2011-11,7
+New Zealand,Oceania,,2011-11,9
+France,Europe,,2011-11,135
+"Others, Europe",Europe,,2011-11,87
+Russian Federation,Europe,,2011-11,10
+Sweden,Europe,,2011-11,26
+Australia,Oceania,,2011-11,81
+Austria,Europe,,2011-11,19
+United Kingdom,Europe,,2011-11,29
+Spain,Europe,,2011-11,20
+Switzerland,Europe,,2011-11,11
+Netherlands,Europe,,2011-11,25
+Italy,Europe,,2011-11,19
+Greece,Europe,,2011-11,1
+Mexico,America,,2011-12,6
+Philippines,Asia,Southeast Asia,2011-12,30
+Brazil,America,,2011-12,21
+United States of America,America,,2011-12,239
+Canada,America,,2011-12,46
+"Others, Asia",Asia,,2011-12,40
+"Others, Southeast Asia",Asia,Southeast Asia,2011-12,126
+Thailand,Asia,Southeast Asia,2011-12,71
+Indonesia,Asia,Southeast Asia,2011-12,82
+Greece,Europe,,2011-12,1
+Malaysia,Asia,Southeast Asia,2011-12,182
+Middle East,Asia,,2011-12,11
+India,Asia,,2011-12,19
+"Korea,Republic of",Asia,,2011-12,251
+Japan,Asia,,2011-12,273
+HongKong. Macao,Asia,,2011-12,127
+Argentina,America,,2011-12,3
+Mainland China,Asia,,2011-12,245
+Singapore,Asia,Southeast Asia,2011-12,118
+"Others, America",America,,2011-12,53
+Sweden,Europe,,2011-12,22
+France,Europe,,2011-12,132
+Unstated,,,2011-12,2
+Belgium,Europe,,2011-12,4
+S. Africa,Africa,,2011-12,4
+"Others, Oceania",Oceania,,2011-12,0
+New Zealand,Oceania,,2011-12,13
+Australia,Oceania,,2011-12,45
+"Others, Europe",Europe,,2011-12,74
+Russian Federation,Europe,,2011-12,11
+"Others, Africa",Africa,,2011-12,12
+Austria,Europe,,2011-12,20
+United Kingdom,Europe,,2011-12,18
+Spain,Europe,,2011-12,22
+Switzerland,Europe,,2011-12,18
+Netherlands,Europe,,2011-12,28
+Italy,Europe,,2011-12,18
+Germany,Europe,,2011-12,82
+S. Africa,Africa,,2012-01,9
+Canada,America,,2012-01,43
+"Others, Asia",Asia,,2012-01,37
+"Others, Southeast Asia",Asia,Southeast Asia,2012-01,7
+Vietnam,Asia,Southeast Asia,2012-01,137
+Thailand,Asia,Southeast Asia,2012-01,47
+Philippines,Asia,Southeast Asia,2012-01,33
+Indonesia,Asia,Southeast Asia,2012-01,96
+Singapore,Asia,Southeast Asia,2012-01,27
+"Korea,Republic of",Asia,,2012-01,333
+Middle East,Asia,,2012-01,13
+India,Asia,,2012-01,18
+United States of America,America,,2012-01,322
+Japan,Asia,,2012-01,387
+Mainland China,Asia,,2012-01,35
+HongKong. Macao,Asia,,2012-01,52
+"Others, Africa",Africa,,2012-01,7
+Unstated,,,2012-01,0
+Malaysia,Asia,Southeast Asia,2012-01,280
+Mexico,America,,2012-01,10
+"Others, Oceania",Oceania,,2012-01,9
+Argentina,America,,2012-01,0
+Austria,Europe,,2012-01,9
+Greece,Europe,,2012-01,0
+Sweden,Europe,,2012-01,21
+Russian Federation,Europe,,2012-01,30
+"Others, Europe",Europe,,2012-01,73
+Australia,Oceania,,2012-01,39
+Brazil,America,,2012-01,12
+United Kingdom,Europe,,2012-01,27
+Spain,Europe,,2012-01,29
+"Others, America",America,,2012-01,135
+Belgium,Europe,,2012-01,13
+France,Europe,,2012-01,109
+Germany,Europe,,2012-01,44
+Italy,Europe,,2012-01,21
+Netherlands,Europe,,2012-01,24
+Switzerland,Europe,,2012-01,11
+New Zealand,Oceania,,2012-01,2
+Mainland China,Asia,,2012-02,898
+France,Europe,,2012-02,303
+Germany,Europe,,2012-02,150
+Italy,Europe,,2012-02,32
+United Kingdom,Europe,,2012-02,30
+Switzerland,Europe,,2012-02,17
+Spain,Europe,,2012-02,40
+Belgium,Europe,,2012-02,10
+Netherlands,Europe,,2012-02,37
+"Others, America",America,,2012-02,339
+Argentina,America,,2012-02,2
+Brazil,America,,2012-02,10
+Japan,Asia,,2012-02,838
+"Korea,Republic of",Asia,,2012-02,761
+India,Asia,,2012-02,114
+Middle East,Asia,,2012-02,43
+Malaysia,Asia,Southeast Asia,2012-02,6427
+Singapore,Asia,Southeast Asia,2012-02,181
+HongKong. Macao,Asia,,2012-02,192
+Indonesia,Asia,Southeast Asia,2012-02,968
+Thailand,Asia,Southeast Asia,2012-02,321
+Vietnam,Asia,Southeast Asia,2012-02,1517
+"Others, Southeast Asia",Asia,Southeast Asia,2012-02,45
+Canada,America,,2012-02,92
+United States of America,America,,2012-02,419
+Mexico,America,,2012-02,18
+Philippines,Asia,Southeast Asia,2012-02,169
+"Others, Asia",Asia,,2012-02,242
+Austria,Europe,,2012-02,21
+"Others, Europe",Europe,,2012-02,188
+Sweden,Europe,,2012-02,59
+Russian Federation,Europe,,2012-02,63
+Australia,Oceania,,2012-02,51
+New Zealand,Oceania,,2012-02,12
+"Others, Oceania",Oceania,,2012-02,19
+S. Africa,Africa,,2012-02,11
+"Others, Africa",Africa,,2012-02,72
+Unstated,,,2012-02,1
+Greece,Europe,,2012-02,1
+Switzerland,Europe,,2012-03,7
+Netherlands,Europe,,2012-03,18
+Germany,Europe,,2012-03,51
+France,Europe,,2012-03,91
+Belgium,Europe,,2012-03,7
+"Others, America",America,,2012-03,77
+Argentina,America,,2012-03,5
+Brazil,America,,2012-03,6
+Mexico,America,,2012-03,9
+United States of America,America,,2012-03,290
+Canada,America,,2012-03,22
+Italy,Europe,,2012-03,20
+Spain,Europe,,2012-03,34
+Thailand,Asia,Southeast Asia,2012-03,223
+"Others, Asia",Asia,,2012-03,47
+Austria,Europe,,2012-03,11
+Greece,Europe,,2012-03,0
+Sweden,Europe,,2012-03,28
+Russian Federation,Europe,,2012-03,24
+"Others, Europe",Europe,,2012-03,76
+Vietnam,Asia,Southeast Asia,2012-03,196
+New Zealand,Oceania,,2012-03,6
+"Others, Oceania",Oceania,,2012-03,1
+S. Africa,Africa,,2012-03,6
+"Others, Africa",Africa,,2012-03,7
+Unstated,,,2012-03,0
+United Kingdom,Europe,,2012-03,31
+"Others, Southeast Asia",Asia,Southeast Asia,2012-03,8
+Australia,Oceania,,2012-03,27
+Philippines,Asia,Southeast Asia,2012-03,37
+Indonesia,Asia,Southeast Asia,2012-03,122
+Singapore,Asia,Southeast Asia,2012-03,118
+Malaysia,Asia,Southeast Asia,2012-03,437
+Middle East,Asia,,2012-03,20
+India,Asia,,2012-03,38
+"Korea,Republic of",Asia,,2012-03,196
+Japan,Asia,,2012-03,515
+Mainland China,Asia,,2012-03,29
+HongKong. Macao,Asia,,2012-03,66
+HongKong. Macao,Asia,,2012-04,113
+Austria,Europe,,2012-04,11
+Greece,Europe,,2012-04,0
+Sweden,Europe,,2012-04,20
+Russian Federation,Europe,,2012-04,18
+"Others, Europe",Europe,,2012-04,85
+Unstated,,,2012-04,0
+Mainland China,Asia,,2012-04,182
+"Others, Oceania",Oceania,,2012-04,3
+S. Africa,Africa,,2012-04,5
+"Others, Africa",Africa,,2012-04,16
+United Kingdom,Europe,,2012-04,23
+Australia,Oceania,,2012-04,20
+Spain,Europe,,2012-04,23
+New Zealand,Oceania,,2012-04,6
+Netherlands,Europe,,2012-04,22
+Japan,Asia,,2012-04,316
+"Korea,Republic of",Asia,,2012-04,171
+India,Asia,,2012-04,16
+Switzerland,Europe,,2012-04,14
+Malaysia,Asia,Southeast Asia,2012-04,266
+Singapore,Asia,Southeast Asia,2012-04,43
+Indonesia,Asia,Southeast Asia,2012-04,114
+Philippines,Asia,Southeast Asia,2012-04,265
+Thailand,Asia,Southeast Asia,2012-04,258
+Vietnam,Asia,Southeast Asia,2012-04,212
+"Others, Southeast Asia",Asia,Southeast Asia,2012-04,7
+Middle East,Asia,,2012-04,53
+Canada,America,,2012-04,50
+"Others, Asia",Asia,,2012-04,26
+Germany,Europe,,2012-04,54
+Belgium,Europe,,2012-04,7
+"Others, America",America,,2012-04,59
+Argentina,America,,2012-04,0
+France,Europe,,2012-04,134
+Mexico,America,,2012-04,5
+United States of America,America,,2012-04,282
+Brazil,America,,2012-04,9
+Italy,Europe,,2012-04,7
+Germany,Europe,,2012-05,68
+Austria,Europe,,2012-05,14
+Italy,Europe,,2012-05,12
+Netherlands,Europe,,2012-05,22
+Switzerland,Europe,,2012-05,11
+Spain,Europe,,2012-05,20
+France,Europe,,2012-05,127
+United Kingdom,Europe,,2012-05,19
+Australia,Oceania,,2012-05,17
+Sweden,Europe,,2012-05,16
+Russian Federation,Europe,,2012-05,14
+"Others, Europe",Europe,,2012-05,69
+New Zealand,Oceania,,2012-05,6
+"Others, Oceania",Oceania,,2012-05,6
+S. Africa,Africa,,2012-05,7
+"Others, Africa",Africa,,2012-05,8
+Belgium,Europe,,2012-05,8
+Unstated,,,2012-05,0
+Greece,Europe,,2012-05,1
+"Others, America",America,,2012-05,63
+"Others, Asia",Asia,,2012-05,27
+Brazil,America,,2012-05,6
+Argentina,America,,2012-05,2
+HongKong. Macao,Asia,,2012-05,68
+Mainland China,Asia,,2012-05,37
+Japan,Asia,,2012-05,357
+"Korea,Republic of",Asia,,2012-05,219
+India,Asia,,2012-05,82
+Malaysia,Asia,Southeast Asia,2012-05,219
+Singapore,Asia,Southeast Asia,2012-05,146
+Middle East,Asia,,2012-05,11
+Philippines,Asia,Southeast Asia,2012-05,42
+Thailand,Asia,Southeast Asia,2012-05,68
+Vietnam,Asia,Southeast Asia,2012-05,156
+"Others, Southeast Asia",Asia,Southeast Asia,2012-05,8
+Canada,America,,2012-05,51
+United States of America,America,,2012-05,407
+Mexico,America,,2012-05,8
+Indonesia,Asia,Southeast Asia,2012-05,99
+HongKong. Macao,Asia,,2012-06,132
+Argentina,America,,2012-06,3
+Brazil,America,,2012-06,5
+Mexico,America,,2012-06,9
+United States of America,America,,2012-06,802
+Canada,America,,2012-06,73
+"Others, Asia",Asia,,2012-06,36
+Mainland China,Asia,,2012-06,16
+Philippines,Asia,Southeast Asia,2012-06,43
+"Korea,Republic of",Asia,,2012-06,230
+India,Asia,,2012-06,53
+Middle East,Asia,,2012-06,15
+Malaysia,Asia,Southeast Asia,2012-06,294
+Singapore,Asia,Southeast Asia,2012-06,136
+Indonesia,Asia,Southeast Asia,2012-06,219
+"Others, America",America,,2012-06,99
+Thailand,Asia,Southeast Asia,2012-06,112
+Japan,Asia,,2012-06,320
+Belgium,Europe,,2012-06,6
+Greece,Europe,,2012-06,0
+Germany,Europe,,2012-06,57
+"Others, Southeast Asia",Asia,Southeast Asia,2012-06,7
+Unstated,,,2012-06,1
+"Others, Africa",Africa,,2012-06,30
+S. Africa,Africa,,2012-06,3
+"Others, Oceania",Oceania,,2012-06,2
+New Zealand,Oceania,,2012-06,4
+Australia,Oceania,,2012-06,22
+France,Europe,,2012-06,126
+"Others, Europe",Europe,,2012-06,86
+Sweden,Europe,,2012-06,14
+Austria,Europe,,2012-06,5
+United Kingdom,Europe,,2012-06,34
+Spain,Europe,,2012-06,33
+Switzerland,Europe,,2012-06,8
+Netherlands,Europe,,2012-06,26
+Italy,Europe,,2012-06,26
+Russian Federation,Europe,,2012-06,52
+Vietnam,Asia,Southeast Asia,2012-06,132
+"Others, Africa",Africa,,2012-07,37
+Unstated,,,2012-07,0
+Mainland China,Asia,,2012-07,46
+Indonesia,Asia,Southeast Asia,2012-07,378
+Singapore,Asia,Southeast Asia,2012-07,73
+Malaysia,Asia,Southeast Asia,2012-07,585
+Middle East,Asia,,2012-07,27
+India,Asia,,2012-07,46
+"Korea,Republic of",Asia,,2012-07,390
+Philippines,Asia,Southeast Asia,2012-07,28
+Sweden,Europe,,2012-07,14
+"Others, Europe",Europe,,2012-07,126
+Australia,Oceania,,2012-07,72
+New Zealand,Oceania,,2012-07,12
+"Others, Oceania",Oceania,,2012-07,19
+S. Africa,Africa,,2012-07,10
+Japan,Asia,,2012-07,365
+Russian Federation,Europe,,2012-07,23
+Thailand,Asia,Southeast Asia,2012-07,157
+Vietnam,Asia,Southeast Asia,2012-07,195
+"Others, Southeast Asia",Asia,Southeast Asia,2012-07,13
+United Kingdom,Europe,,2012-07,38
+Spain,Europe,,2012-07,27
+Switzerland,Europe,,2012-07,27
+Netherlands,Europe,,2012-07,36
+Italy,Europe,,2012-07,38
+Germany,Europe,,2012-07,121
+France,Europe,,2012-07,156
+Belgium,Europe,,2012-07,11
+"Others, America",America,,2012-07,113
+Argentina,America,,2012-07,4
+Brazil,America,,2012-07,9
+Mexico,America,,2012-07,8
+United States of America,America,,2012-07,596
+Canada,America,,2012-07,67
+"Others, Asia",Asia,,2012-07,49
+HongKong. Macao,Asia,,2012-07,105
+Austria,Europe,,2012-07,18
+Greece,Europe,,2012-07,2
+"Others, Africa",Africa,,2012-08,106
+Argentina,America,,2012-08,4
+Brazil,America,,2012-08,42
+Mexico,America,,2012-08,40
+United States of America,America,,2012-08,548
+Canada,America,,2012-08,81
+"Others, Asia",Asia,,2012-08,156
+"Others, Southeast Asia",Asia,Southeast Asia,2012-08,79
+Vietnam,Asia,Southeast Asia,2012-08,505
+Thailand,Asia,Southeast Asia,2012-08,196
+Philippines,Asia,Southeast Asia,2012-08,59
+Indonesia,Asia,Southeast Asia,2012-08,542
+Singapore,Asia,Southeast Asia,2012-08,123
+Malaysia,Asia,Southeast Asia,2012-08,1682
+Middle East,Asia,,2012-08,37
+India,Asia,,2012-08,63
+Mainland China,Asia,,2012-08,220
+Unstated,,,2012-08,0
+Belgium,Europe,,2012-08,22
+Germany,Europe,,2012-08,177
+"Korea,Republic of",Asia,,2012-08,514
+S. Africa,Africa,,2012-08,8
+"Others, Oceania",Oceania,,2012-08,30
+New Zealand,Oceania,,2012-08,13
+Australia,Oceania,,2012-08,44
+"Others, Europe",Europe,,2012-08,180
+Russian Federation,Europe,,2012-08,76
+Sweden,Europe,,2012-08,35
+Greece,Europe,,2012-08,0
+Austria,Europe,,2012-08,20
+United Kingdom,Europe,,2012-08,43
+Spain,Europe,,2012-08,32
+Switzerland,Europe,,2012-08,17
+Netherlands,Europe,,2012-08,46
+Italy,Europe,,2012-08,46
+France,Europe,,2012-08,184
+HongKong. Macao,Asia,,2012-08,317
+"Others, America",America,,2012-08,358
+Japan,Asia,,2012-08,945
+France,Europe,,2012-09,290
+Germany,Europe,,2012-09,212
+Italy,Europe,,2012-09,59
+Netherlands,Europe,,2012-09,70
+Switzerland,Europe,,2012-09,21
+Spain,Europe,,2012-09,54
+United Kingdom,Europe,,2012-09,46
+Belgium,Europe,,2012-09,37
+Austria,Europe,,2012-09,26
+Sweden,Europe,,2012-09,69
+Russian Federation,Europe,,2012-09,78
+"Others, Europe",Europe,,2012-09,235
+Australia,Oceania,,2012-09,50
+New Zealand,Oceania,,2012-09,8
+"Others, Oceania",Oceania,,2012-09,30
+S. Africa,Africa,,2012-09,5
+Greece,Europe,,2012-09,3
+"Others, Africa",Africa,,2012-09,201
+"Others, America",America,,2012-09,378
+Brazil,America,,2012-09,10
+HongKong. Macao,Asia,,2012-09,1841
+Mainland China,Asia,,2012-09,1631
+"Korea,Republic of",Asia,,2012-09,608
+India,Asia,,2012-09,154
+Middle East,Asia,,2012-09,58
+Malaysia,Asia,Southeast Asia,2012-09,3842
+Singapore,Asia,Southeast Asia,2012-09,219
+Argentina,America,,2012-09,5
+Indonesia,Asia,Southeast Asia,2012-09,798
+Thailand,Asia,Southeast Asia,2012-09,302
+Vietnam,Asia,Southeast Asia,2012-09,1035
+"Others, Southeast Asia",Asia,Southeast Asia,2012-09,23
+"Others, Asia",Asia,,2012-09,420
+Canada,America,,2012-09,69
+United States of America,America,,2012-09,434
+Mexico,America,,2012-09,27
+Philippines,Asia,Southeast Asia,2012-09,126
+Unstated,,,2012-09,2
+Japan,Asia,,2012-09,847
+S. Africa,Africa,,2012-10,5
+"Others, Asia",Asia,,2012-10,42
+"Others, Southeast Asia",Asia,Southeast Asia,2012-10,9
+Vietnam,Asia,Southeast Asia,2012-10,184
+Thailand,Asia,Southeast Asia,2012-10,100
+Philippines,Asia,Southeast Asia,2012-10,55
+Indonesia,Asia,Southeast Asia,2012-10,122
+Singapore,Asia,Southeast Asia,2012-10,76
+Canada,America,,2012-10,42
+HongKong. Macao,Asia,,2012-10,39
+Japan,Asia,,2012-10,289
+Malaysia,Asia,Southeast Asia,2012-10,261
+"Korea,Republic of",Asia,,2012-10,241
+India,Asia,,2012-10,34
+"Others, Oceania",Oceania,,2012-10,8
+"Others, Africa",Africa,,2012-10,42
+Unstated,,,2012-10,0
+Mainland China,Asia,,2012-10,93
+United States of America,America,,2012-10,187
+Middle East,Asia,,2012-10,31
+Brazil,America,,2012-10,4
+Mexico,America,,2012-10,6
+Russian Federation,Europe,,2012-10,12
+Greece,Europe,,2012-10,0
+Austria,Europe,,2012-10,8
+United Kingdom,Europe,,2012-10,27
+Spain,Europe,,2012-10,15
+Australia,Oceania,,2012-10,23
+New Zealand,Oceania,,2012-10,18
+Sweden,Europe,,2012-10,18
+Netherlands,Europe,,2012-10,23
+Argentina,America,,2012-10,2
+Switzerland,Europe,,2012-10,12
+"Others, America",America,,2012-10,87
+Belgium,Europe,,2012-10,7
+France,Europe,,2012-10,71
+"Others, Europe",Europe,,2012-10,54
+Italy,Europe,,2012-10,26
+Germany,Europe,,2012-10,84
+Brazil,America,,2012-11,3
+Mexico,America,,2012-11,6
+United States of America,America,,2012-11,210
+Canada,America,,2012-11,46
+"Others, Asia",Asia,,2012-11,62
+"Others, Southeast Asia",Asia,Southeast Asia,2012-11,5
+Vietnam,Asia,Southeast Asia,2012-11,146
+Thailand,Asia,Southeast Asia,2012-11,118
+HongKong. Macao,Asia,,2012-11,20
+Singapore,Asia,Southeast Asia,2012-11,221
+Mainland China,Asia,,2012-11,90
+Middle East,Asia,,2012-11,10
+India,Asia,,2012-11,30
+"Korea,Republic of",Asia,,2012-11,242
+Japan,Asia,,2012-11,412
+Argentina,America,,2012-11,3
+Indonesia,Asia,Southeast Asia,2012-11,120
+Malaysia,Asia,Southeast Asia,2012-11,271
+Philippines,Asia,Southeast Asia,2012-11,28
+France,Europe,,2012-11,168
+Belgium,Europe,,2012-11,19
+"Others, Africa",Africa,,2012-11,12
+Unstated,,,2012-11,1
+S. Africa,Africa,,2012-11,4
+"Others, Oceania",Oceania,,2012-11,12
+New Zealand,Oceania,,2012-11,11
+Australia,Oceania,,2012-11,65
+"Others, Europe",Europe,,2012-11,75
+Russian Federation,Europe,,2012-11,17
+"Others, America",America,,2012-11,36
+Greece,Europe,,2012-11,0
+Austria,Europe,,2012-11,18
+United Kingdom,Europe,,2012-11,23
+Spain,Europe,,2012-11,24
+Switzerland,Europe,,2012-11,16
+Sweden,Europe,,2012-11,35
+Netherlands,Europe,,2012-11,31
+Italy,Europe,,2012-11,37
+Germany,Europe,,2012-11,104
+"Others, America",America,,2012-12,62
+Argentina,America,,2012-12,1
+Brazil,America,,2012-12,12
+Mexico,America,,2012-12,9
+United States of America,America,,2012-12,248
+Canada,America,,2012-12,41
+Thailand,Asia,Southeast Asia,2012-12,119
+"Others, Southeast Asia",Asia,Southeast Asia,2012-12,37
+Vietnam,Asia,Southeast Asia,2012-12,139
+Belgium,Europe,,2012-12,11
+Philippines,Asia,Southeast Asia,2012-12,28
+Indonesia,Asia,Southeast Asia,2012-12,252
+Singapore,Asia,Southeast Asia,2012-12,121
+Malaysia,Asia,Southeast Asia,2012-12,239
+Middle East,Asia,,2012-12,11
+"Others, Asia",Asia,,2012-12,42
+France,Europe,,2012-12,154
+Spain,Europe,,2012-12,18
+Italy,Europe,,2012-12,26
+Japan,Asia,,2012-12,372
+Mainland China,Asia,,2012-12,89
+HongKong. Macao,Asia,,2012-12,67
+Unstated,,,2012-12,1
+"Others, Africa",Africa,,2012-12,11
+S. Africa,Africa,,2012-12,11
+"Others, Oceania",Oceania,,2012-12,7
+Germany,Europe,,2012-12,101
+New Zealand,Oceania,,2012-12,9
+"Others, Europe",Europe,,2012-12,81
+Sweden,Europe,,2012-12,40
+Greece,Europe,,2012-12,0
+Austria,Europe,,2012-12,19
+United Kingdom,Europe,,2012-12,13
+Switzerland,Europe,,2012-12,16
+Netherlands,Europe,,2012-12,44
+Australia,Oceania,,2012-12,57
+Russian Federation,Europe,,2012-12,28
+"Korea,Republic of",Asia,,2012-12,264
+India,Asia,,2012-12,30
+HongKong. Macao,Asia,,2013-01,132
+Germany,Europe,,2013-01,93
+Italy,Europe,,2013-01,21
+Netherlands,Europe,,2013-01,31
+Switzerland,Europe,,2013-01,7
+Spain,Europe,,2013-01,41
+United Kingdom,Europe,,2013-01,20
+Austria,Europe,,2013-01,11
+Sweden,Europe,,2013-01,23
+Russian Federation,Europe,,2013-01,11
+"Others, Europe",Europe,,2013-01,61
+Australia,Oceania,,2013-01,38
+New Zealand,Oceania,,2013-01,6
+"Others, Oceania",Oceania,,2013-01,2
+S. Africa,Africa,,2013-01,8
+"Others, Africa",Africa,,2013-01,13
+Unstated,,,2013-01,0
+France,Europe,,2013-01,149
+Belgium,Europe,,2013-01,8
+Greece,Europe,,2013-01,0
+Argentina,America,,2013-01,2
+Mainland China,Asia,,2013-01,59
+"Others, America",America,,2013-01,154
+Japan,Asia,,2013-01,334
+"Korea,Republic of",Asia,,2013-01,352
+India,Asia,,2013-01,28
+Middle East,Asia,,2013-01,9
+Singapore,Asia,Southeast Asia,2013-01,57
+Indonesia,Asia,Southeast Asia,2013-01,102
+Philippines,Asia,Southeast Asia,2013-01,40
+Malaysia,Asia,Southeast Asia,2013-01,247
+Vietnam,Asia,Southeast Asia,2013-01,71
+"Others, Southeast Asia",Asia,Southeast Asia,2013-01,7
+"Others, Asia",Asia,,2013-01,27
+Canada,America,,2013-01,36
+United States of America,America,,2013-01,331
+Mexico,America,,2013-01,9
+Brazil,America,,2013-01,20
+Thailand,Asia,Southeast Asia,2013-01,59
+Germany,Europe,,2013-02,164
+Austria,Europe,,2013-02,28
+Italy,Europe,,2013-02,36
+Netherlands,Europe,,2013-02,48
+Switzerland,Europe,,2013-02,26
+Spain,Europe,,2013-02,56
+United Kingdom,Europe,,2013-02,41
+Greece,Europe,,2013-02,0
+Unstated,,,2013-02,0
+Russian Federation,Europe,,2013-02,80
+"Others, Europe",Europe,,2013-02,243
+Australia,Oceania,,2013-02,43
+New Zealand,Oceania,,2013-02,12
+"Others, Oceania",Oceania,,2013-02,20
+S. Africa,Africa,,2013-02,12
+"Others, Africa",Africa,,2013-02,62
+France,Europe,,2013-02,365
+Sweden,Europe,,2013-02,44
+Belgium,Europe,,2013-02,18
+"Others, America",America,,2013-02,398
+HongKong. Macao,Asia,,2013-02,370
+Argentina,America,,2013-02,4
+Mainland China,Asia,,2013-02,1723
+Japan,Asia,,2013-02,1038
+"Korea,Republic of",Asia,,2013-02,741
+India,Asia,,2013-02,156
+Malaysia,Asia,Southeast Asia,2013-02,7456
+Singapore,Asia,Southeast Asia,2013-02,224
+Indonesia,Asia,Southeast Asia,2013-02,1188
+Middle East,Asia,,2013-02,38
+Thailand,Asia,Southeast Asia,2013-02,332
+Vietnam,Asia,Southeast Asia,2013-02,1225
+"Others, Southeast Asia",Asia,Southeast Asia,2013-02,68
+"Others, Asia",Asia,,2013-02,264
+Canada,America,,2013-02,100
+United States of America,America,,2013-02,452
+Mexico,America,,2013-02,26
+Philippines,Asia,Southeast Asia,2013-02,148
+Brazil,America,,2013-02,13
+Vietnam,Asia,Southeast Asia,2013-03,517
+"Others, Southeast Asia",Asia,Southeast Asia,2013-03,16
+"Others, Asia",Asia,,2013-03,74
+Mexico,America,,2013-03,8
+United States of America,America,,2013-03,343
+Mainland China,Asia,,2013-03,157
+Canada,America,,2013-03,39
+Japan,Asia,,2013-03,596
+"Korea,Republic of",Asia,,2013-03,194
+India,Asia,,2013-03,49
+Middle East,Asia,,2013-03,48
+Malaysia,Asia,Southeast Asia,2013-03,598
+Singapore,Asia,Southeast Asia,2013-03,154
+Indonesia,Asia,Southeast Asia,2013-03,243
+Philippines,Asia,Southeast Asia,2013-03,44
+Thailand,Asia,Southeast Asia,2013-03,363
+Brazil,America,,2013-03,3
+HongKong. Macao,Asia,,2013-03,226
+Argentina,America,,2013-03,5
+Germany,Europe,,2013-03,113
+Belgium,Europe,,2013-03,9
+Unstated,,,2013-03,0
+"Others, Africa",Africa,,2013-03,38
+"Others, America",America,,2013-03,85
+"Others, Oceania",Oceania,,2013-03,9
+New Zealand,Oceania,,2013-03,9
+Australia,Oceania,,2013-03,26
+"Others, Europe",Europe,,2013-03,79
+Russian Federation,Europe,,2013-03,34
+Sweden,Europe,,2013-03,20
+S. Africa,Africa,,2013-03,6
+Austria,Europe,,2013-03,4
+United Kingdom,Europe,,2013-03,26
+Spain,Europe,,2013-03,14
+Switzerland,Europe,,2013-03,16
+Netherlands,Europe,,2013-03,13
+Italy,Europe,,2013-03,29
+France,Europe,,2013-03,85
+Greece,Europe,,2013-03,1
+Vietnam,Asia,Southeast Asia,2013-04,133
+Thailand,Asia,Southeast Asia,2013-04,257
+Philippines,Asia,Southeast Asia,2013-04,256
+Indonesia,Asia,Southeast Asia,2013-04,267
+Singapore,Asia,Southeast Asia,2013-04,87
+"Korea,Republic of",Asia,,2013-04,182
+Middle East,Asia,,2013-04,21
+India,Asia,,2013-04,24
+Japan,Asia,,2013-04,303
+"Others, Southeast Asia",Asia,Southeast Asia,2013-04,18
+Mainland China,Asia,,2013-04,343
+HongKong. Macao,Asia,,2013-04,181
+Malaysia,Asia,Southeast Asia,2013-04,327
+"Others, Asia",Asia,,2013-04,40
+Belgium,Europe,,2013-04,6
+United States of America,America,,2013-04,271
+Unstated,,,2013-04,0
+S. Africa,Africa,,2013-04,4
+"Others, Oceania",Oceania,,2013-04,4
+New Zealand,Oceania,,2013-04,8
+Australia,Oceania,,2013-04,16
+"Others, Europe",Europe,,2013-04,90
+Russian Federation,Europe,,2013-04,18
+Sweden,Europe,,2013-04,14
+Greece,Europe,,2013-04,0
+Austria,Europe,,2013-04,15
+United Kingdom,Europe,,2013-04,33
+Spain,Europe,,2013-04,26
+Switzerland,Europe,,2013-04,14
+Netherlands,Europe,,2013-04,24
+Italy,Europe,,2013-04,22
+Germany,Europe,,2013-04,67
+France,Europe,,2013-04,172
+"Others, America",America,,2013-04,89
+Argentina,America,,2013-04,5
+Brazil,America,,2013-04,7
+Mexico,America,,2013-04,5
+Canada,America,,2013-04,50
+"Others, Africa",Africa,,2013-04,34
+Japan,Asia,,2013-05,371
+"Others, Oceania",Oceania,,2013-05,4
+Mexico,America,,2013-05,6
+United States of America,America,,2013-05,417
+Canada,America,,2013-05,61
+"Others, Asia",Asia,,2013-05,25
+"Others, Southeast Asia",Asia,Southeast Asia,2013-05,4
+Vietnam,Asia,Southeast Asia,2013-05,116
+Brazil,America,,2013-05,14
+Thailand,Asia,Southeast Asia,2013-05,76
+Indonesia,Asia,Southeast Asia,2013-05,127
+Singapore,Asia,Southeast Asia,2013-05,114
+Malaysia,Asia,Southeast Asia,2013-05,508
+Middle East,Asia,,2013-05,17
+India,Asia,,2013-05,74
+"Korea,Republic of",Asia,,2013-05,227
+Philippines,Asia,Southeast Asia,2013-05,42
+Argentina,America,,2013-05,5
+"Others, America",America,,2013-05,77
+Mainland China,Asia,,2013-05,104
+New Zealand,Oceania,,2013-05,5
+Australia,Oceania,,2013-05,11
+"Others, Europe",Europe,,2013-05,80
+Russian Federation,Europe,,2013-05,17
+HongKong. Macao,Asia,,2013-05,247
+Sweden,Europe,,2013-05,23
+Greece,Europe,,2013-05,2
+Austria,Europe,,2013-05,12
+United Kingdom,Europe,,2013-05,24
+Spain,Europe,,2013-05,24
+Switzerland,Europe,,2013-05,20
+Netherlands,Europe,,2013-05,18
+Italy,Europe,,2013-05,17
+Germany,Europe,,2013-05,79
+France,Europe,,2013-05,134
+S. Africa,Africa,,2013-05,5
+Belgium,Europe,,2013-05,10
+Unstated,,,2013-05,0
+"Others, Africa",Africa,,2013-05,17
+Mainland China,Asia,,2013-06,69
+Italy,Europe,,2013-06,23
+Netherlands,Europe,,2013-06,55
+Switzerland,Europe,,2013-06,10
+Spain,Europe,,2013-06,36
+United Kingdom,Europe,,2013-06,54
+Austria,Europe,,2013-06,9
+Greece,Europe,,2013-06,0
+Sweden,Europe,,2013-06,20
+Russian Federation,Europe,,2013-06,38
+"Others, Europe",Europe,,2013-06,100
+Australia,Oceania,,2013-06,44
+"Others, Oceania",Oceania,,2013-06,10
+S. Africa,Africa,,2013-06,1
+"Others, Africa",Africa,,2013-06,25
+Unstated,,,2013-06,0
+HongKong. Macao,Asia,,2013-06,381
+Germany,Europe,,2013-06,56
+France,Europe,,2013-06,221
+New Zealand,Oceania,,2013-06,10
+"Others, America",America,,2013-06,95
+"Korea,Republic of",Asia,,2013-06,287
+India,Asia,,2013-06,42
+Middle East,Asia,,2013-06,24
+Malaysia,Asia,Southeast Asia,2013-06,420
+Singapore,Asia,Southeast Asia,2013-06,153
+Belgium,Europe,,2013-06,12
+Indonesia,Asia,Southeast Asia,2013-06,485
+Philippines,Asia,Southeast Asia,2013-06,20
+Japan,Asia,,2013-06,363
+Vietnam,Asia,Southeast Asia,2013-06,123
+"Others, Southeast Asia",Asia,Southeast Asia,2013-06,11
+"Others, Asia",Asia,,2013-06,32
+Canada,America,,2013-06,67
+United States of America,America,,2013-06,847
+Mexico,America,,2013-06,14
+Brazil,America,,2013-06,6
+Argentina,America,,2013-06,1
+Thailand,Asia,Southeast Asia,2013-06,118
+Austria,Europe,,2013-07,21
+United Kingdom,Europe,,2013-07,29
+Italy,Europe,,2013-07,49
+Switzerland,Europe,,2013-07,18
+Netherlands,Europe,,2013-07,18
+Greece,Europe,,2013-07,2
+Spain,Europe,,2013-07,24
+Sweden,Europe,,2013-07,10
+New Zealand,Oceania,,2013-07,12
+"Others, Europe",Europe,,2013-07,115
+Australia,Oceania,,2013-07,32
+"Others, Oceania",Oceania,,2013-07,3
+S. Africa,Africa,,2013-07,3
+"Others, Africa",Africa,,2013-07,35
+Unstated,,,2013-07,0
+Germany,Europe,,2013-07,152
+Russian Federation,Europe,,2013-07,29
+Belgium,Europe,,2013-07,11
+France,Europe,,2013-07,141
+Mainland China,Asia,,2013-07,134
+HongKong. Macao,Asia,,2013-07,349
+"Others, America",America,,2013-07,111
+Japan,Asia,,2013-07,391
+"Korea,Republic of",Asia,,2013-07,375
+India,Asia,,2013-07,38
+Middle East,Asia,,2013-07,30
+Singapore,Asia,Southeast Asia,2013-07,61
+Indonesia,Asia,Southeast Asia,2013-07,266
+Philippines,Asia,Southeast Asia,2013-07,47
+Malaysia,Asia,Southeast Asia,2013-07,600
+Vietnam,Asia,Southeast Asia,2013-07,220
+Argentina,America,,2013-07,1
+Thailand,Asia,Southeast Asia,2013-07,166
+Mexico,America,,2013-07,17
+United States of America,America,,2013-07,453
+Brazil,America,,2013-07,2
+"Others, Asia",Asia,,2013-07,56
+"Others, Southeast Asia",Asia,Southeast Asia,2013-07,17
+Canada,America,,2013-07,52
+Mexico,America,,2013-08,47
+Thailand,Asia,Southeast Asia,2013-08,202
+United States of America,America,,2013-08,576
+Canada,America,,2013-08,64
+"Others, Asia",Asia,,2013-08,158
+"Others, Southeast Asia",Asia,Southeast Asia,2013-08,95
+Vietnam,Asia,Southeast Asia,2013-08,528
+Philippines,Asia,Southeast Asia,2013-08,82
+Brazil,America,,2013-08,61
+Singapore,Asia,Southeast Asia,2013-08,229
+Malaysia,Asia,Southeast Asia,2013-08,2143
+Middle East,Asia,,2013-08,73
+India,Asia,,2013-08,73
+"Korea,Republic of",Asia,,2013-08,471
+Japan,Asia,,2013-08,1175
+Mainland China,Asia,,2013-08,760
+HongKong. Macao,Asia,,2013-08,741
+Indonesia,Asia,Southeast Asia,2013-08,590
+Argentina,America,,2013-08,10
+United Kingdom,Europe,,2013-08,50
+Belgium,Europe,,2013-08,31
+"Others, America",America,,2013-08,328
+Unstated,,,2013-08,0
+"Others, Africa",Africa,,2013-08,66
+S. Africa,Africa,,2013-08,21
+"Others, Oceania",Oceania,,2013-08,29
+New Zealand,Oceania,,2013-08,7
+"Others, Europe",Europe,,2013-08,200
+Russian Federation,Europe,,2013-08,81
+Australia,Oceania,,2013-08,19
+Greece,Europe,,2013-08,1
+Austria,Europe,,2013-08,23
+Spain,Europe,,2013-08,43
+Switzerland,Europe,,2013-08,24
+Netherlands,Europe,,2013-08,61
+Italy,Europe,,2013-08,57
+Germany,Europe,,2013-08,214
+France,Europe,,2013-08,233
+Sweden,Europe,,2013-08,38
+Thailand,Asia,Southeast Asia,2013-09,350
+United States of America,America,,2013-09,464
+Canada,America,,2013-09,70
+"Others, Asia",Asia,,2013-09,490
+"Others, Southeast Asia",Asia,Southeast Asia,2013-09,44
+Vietnam,Asia,Southeast Asia,2013-09,896
+Philippines,Asia,Southeast Asia,2013-09,105
+HongKong. Macao,Asia,,2013-09,2405
+Singapore,Asia,Southeast Asia,2013-09,383
+Malaysia,Asia,Southeast Asia,2013-09,4494
+Middle East,Asia,,2013-09,104
+India,Asia,,2013-09,165
+"Korea,Republic of",Asia,,2013-09,668
+Japan,Asia,,2013-09,1005
+Mainland China,Asia,,2013-09,2691
+Mexico,America,,2013-09,23
+Indonesia,Asia,Southeast Asia,2013-09,897
+Brazil,America,,2013-09,17
+Switzerland,Europe,,2013-09,29
+"Others, America",America,,2013-09,524
+"Others, Africa",Africa,,2013-09,301
+S. Africa,Africa,,2013-09,9
+"Others, Oceania",Oceania,,2013-09,51
+New Zealand,Oceania,,2013-09,8
+Australia,Oceania,,2013-09,28
+"Others, Europe",Europe,,2013-09,258
+Russian Federation,Europe,,2013-09,115
+Argentina,America,,2013-09,3
+Sweden,Europe,,2013-09,94
+Austria,Europe,,2013-09,32
+United Kingdom,Europe,,2013-09,35
+Spain,Europe,,2013-09,65
+Netherlands,Europe,,2013-09,73
+Italy,Europe,,2013-09,72
+Germany,Europe,,2013-09,260
+France,Europe,,2013-09,313
+Belgium,Europe,,2013-09,38
+Greece,Europe,,2013-09,2
+Unstated,,,2013-09,0
+Sweden,Europe,,2013-10,44
+Russian Federation,Europe,,2013-10,19
+United Kingdom,Europe,,2013-10,22
+Middle East,Asia,,2013-10,14
+India,Asia,,2013-10,27
+"Korea,Republic of",Asia,,2013-10,231
+Japan,Asia,,2013-10,363
+Mainland China,Asia,,2013-10,183
+Austria,Europe,,2013-10,14
+Unstated,,,2013-10,0
+"Others, Africa",Africa,,2013-10,52
+S. Africa,Africa,,2013-10,4
+"Others, Oceania",Oceania,,2013-10,25
+New Zealand,Oceania,,2013-10,5
+Australia,Oceania,,2013-10,27
+"Others, Europe",Europe,,2013-10,81
+HongKong. Macao,Asia,,2013-10,105
+Spain,Europe,,2013-10,26
+Malaysia,Asia,Southeast Asia,2013-10,272
+Singapore,Asia,Southeast Asia,2013-10,150
+Greece,Europe,,2013-10,2
+Philippines,Asia,Southeast Asia,2013-10,29
+Indonesia,Asia,Southeast Asia,2013-10,154
+Switzerland,Europe,,2013-10,11
+Netherlands,Europe,,2013-10,21
+Italy,Europe,,2013-10,31
+Germany,Europe,,2013-10,126
+France,Europe,,2013-10,126
+"Others, America",America,,2013-10,95
+Argentina,America,,2013-10,4
+Belgium,Europe,,2013-10,11
+Mexico,America,,2013-10,10
+United States of America,America,,2013-10,145
+Canada,America,,2013-10,39
+"Others, Asia",Asia,,2013-10,51
+"Others, Southeast Asia",Asia,Southeast Asia,2013-10,16
+Vietnam,Asia,Southeast Asia,2013-10,240
+Thailand,Asia,Southeast Asia,2013-10,137
+Brazil,America,,2013-10,6
+Brazil,America,,2013-11,6
+Vietnam,Asia,Southeast Asia,2013-11,175
+Mexico,America,,2013-11,10
+United States of America,America,,2013-11,268
+Canada,America,,2013-11,41
+"Others, Asia",Asia,,2013-11,52
+"Others, Southeast Asia",Asia,Southeast Asia,2013-11,23
+Thailand,Asia,Southeast Asia,2013-11,94
+Mainland China,Asia,,2013-11,239
+Indonesia,Asia,Southeast Asia,2013-11,131
+Singapore,Asia,Southeast Asia,2013-11,257
+Malaysia,Asia,Southeast Asia,2013-11,375
+Middle East,Asia,,2013-11,17
+India,Asia,,2013-11,35
+"Korea,Republic of",Asia,,2013-11,228
+Japan,Asia,,2013-11,471
+Argentina,America,,2013-11,0
+Philippines,Asia,Southeast Asia,2013-11,57
+"Others, America",America,,2013-11,69
+HongKong. Macao,Asia,,2013-11,136
+France,Europe,,2013-11,116
+Belgium,Europe,,2013-11,17
+Unstated,,,2013-11,0
+"Others, Africa",Africa,,2013-11,24
+S. Africa,Africa,,2013-11,2
+"Others, Oceania",Oceania,,2013-11,5
+Australia,Oceania,,2013-11,54
+"Others, Europe",Europe,,2013-11,94
+Russian Federation,Europe,,2013-11,29
+New Zealand,Oceania,,2013-11,10
+Greece,Europe,,2013-11,0
+Austria,Europe,,2013-11,19
+United Kingdom,Europe,,2013-11,29
+Spain,Europe,,2013-11,23
+Switzerland,Europe,,2013-11,21
+Netherlands,Europe,,2013-11,37
+Italy,Europe,,2013-11,47
+Sweden,Europe,,2013-11,41
+Germany,Europe,,2013-11,100
+United Kingdom,Europe,,2013-12,28
+Switzerland,Europe,,2013-12,17
+Belgium,Europe,,2013-12,18
+Italy,Europe,,2013-12,30
+France,Europe,,2013-12,144
+Austria,Europe,,2013-12,33
+Netherlands,Europe,,2013-12,46
+Greece,Europe,,2013-12,0
+Unstated,,,2013-12,1
+Russian Federation,Europe,,2013-12,20
+"Others, Europe",Europe,,2013-12,89
+Australia,Oceania,,2013-12,81
+New Zealand,Oceania,,2013-12,5
+"Others, Oceania",Oceania,,2013-12,4
+S. Africa,Africa,,2013-12,4
+"Others, Africa",Africa,,2013-12,34
+"Others, America",America,,2013-12,71
+Sweden,Europe,,2013-12,31
+Argentina,America,,2013-12,2
+Spain,Europe,,2013-12,30
+Mexico,America,,2013-12,7
+Brazil,America,,2013-12,16
+HongKong. Macao,Asia,,2013-12,156
+Mainland China,Asia,,2013-12,182
+Japan,Asia,,2013-12,462
+"Korea,Republic of",Asia,,2013-12,407
+India,Asia,,2013-12,64
+Middle East,Asia,,2013-12,13
+Malaysia,Asia,Southeast Asia,2013-12,357
+Singapore,Asia,Southeast Asia,2013-12,159
+Germany,Europe,,2013-12,127
+Philippines,Asia,Southeast Asia,2013-12,34
+Indonesia,Asia,Southeast Asia,2013-12,154
+United States of America,America,,2013-12,234
+Canada,America,,2013-12,51
+"Others, Asia",Asia,,2013-12,39
+Thailand,Asia,Southeast Asia,2013-12,82
+Vietnam,Asia,Southeast Asia,2013-12,128
+"Others, Southeast Asia",Asia,Southeast Asia,2013-12,10
+Indonesia,Asia,Southeast Asia,2014-01,55
+Germany,Europe,,2014-01,101
+France,Europe,,2014-01,114
+Belgium,Europe,,2014-01,10
+"Others, America",America,,2014-01,87
+Argentina,America,,2014-01,4
+Brazil,America,,2014-01,20
+Mexico,America,,2014-01,6
+United States of America,America,,2014-01,325
+Italy,Europe,,2014-01,27
+Canada,America,,2014-01,47
+"Others, Asia",Asia,,2014-01,22
+"Others, Southeast Asia",Asia,Southeast Asia,2014-01,7
+Vietnam,Asia,Southeast Asia,2014-01,43
+Thailand,Asia,Southeast Asia,2014-01,52
+Philippines,Asia,Southeast Asia,2014-01,74
+Middle East,Asia,,2014-01,10
+Netherlands,Europe,,2014-01,38
+Austria,Europe,,2014-01,9
+Spain,Europe,,2014-01,43
+Malaysia,Asia,Southeast Asia,2014-01,253
+"Korea,Republic of",Asia,,2014-01,762
+India,Asia,,2014-01,14
+Unstated,,,2014-01,0
+"Others, Africa",Africa,,2014-01,9
+S. Africa,Africa,,2014-01,4
+"Others, Oceania",Oceania,,2014-01,3
+Switzerland,Europe,,2014-01,13
+New Zealand,Oceania,,2014-01,7
+Mainland China,Asia,,2014-01,92
+HongKong. Macao,Asia,,2014-01,154
+"Others, Europe",Europe,,2014-01,73
+Russian Federation,Europe,,2014-01,11
+Sweden,Europe,,2014-01,21
+Greece,Europe,,2014-01,0
+United Kingdom,Europe,,2014-01,38
+Japan,Asia,,2014-01,879
+Australia,Oceania,,2014-01,84
+Singapore,Asia,Southeast Asia,2014-01,267
+Netherlands,Europe,,2014-02,45
+France,Europe,,2014-02,410
+Germany,Europe,,2014-02,187
+Italy,Europe,,2014-02,28
+Switzerland,Europe,,2014-02,24
+Spain,Europe,,2014-02,45
+United Kingdom,Europe,,2014-02,65
+Austria,Europe,,2014-02,31
+"Others, America",America,,2014-02,51
+Greece,Europe,,2014-02,1
+S. Africa,Africa,,2014-02,6
+"Others, Oceania",Oceania,,2014-02,1
+New Zealand,Oceania,,2014-02,9
+Australia,Oceania,,2014-02,58
+"Others, Europe",Europe,,2014-02,194
+Russian Federation,Europe,,2014-02,17
+Sweden,Europe,,2014-02,44
+"Others, Africa",Africa,,2014-02,33
+Argentina,America,,2014-02,0
+Belgium,Europe,,2014-02,29
+Mexico,America,,2014-02,6
+Unstated,,,2014-02,0
+HongKong. Macao,Asia,,2014-02,440
+Mainland China,Asia,,2014-02,3389
+Japan,Asia,,2014-02,1423
+"Korea,Republic of",Asia,,2014-02,958
+India,Asia,,2014-02,100
+Middle East,Asia,,2014-02,22
+Brazil,America,,2014-02,15
+Singapore,Asia,Southeast Asia,2014-02,170
+Malaysia,Asia,Southeast Asia,2014-02,1969
+Philippines,Asia,Southeast Asia,2014-02,65
+Thailand,Asia,Southeast Asia,2014-02,119
+Vietnam,Asia,Southeast Asia,2014-02,173
+"Others, Southeast Asia",Asia,Southeast Asia,2014-02,28
+"Others, Asia",Asia,,2014-02,96
+Canada,America,,2014-02,78
+United States of America,America,,2014-02,380
+Indonesia,Asia,Southeast Asia,2014-02,235
+Argentina,America,,2014-03,3
+Canada,America,,2014-03,36
+Brazil,America,,2014-03,7
+Mexico,America,,2014-03,4
+United States of America,America,,2014-03,357
+"Others, Asia",Asia,,2014-03,26
+S. Africa,Africa,,2014-03,6
+Vietnam,Asia,Southeast Asia,2014-03,99
+Thailand,Asia,Southeast Asia,2014-03,287
+Philippines,Asia,Southeast Asia,2014-03,15
+Indonesia,Asia,Southeast Asia,2014-03,68
+"Others, Africa",Africa,,2014-03,13
+"Others, America",America,,2014-03,46
+"Others, Southeast Asia",Asia,Southeast Asia,2014-03,2
+Belgium,Europe,,2014-03,9
+United Kingdom,Europe,,2014-03,29
+Singapore,Asia,Southeast Asia,2014-03,179
+"Others, Oceania",Oceania,,2014-03,3
+New Zealand,Oceania,,2014-03,7
+Australia,Oceania,,2014-03,32
+"Others, Europe",Europe,,2014-03,51
+Russian Federation,Europe,,2014-03,19
+Sweden,Europe,,2014-03,12
+Greece,Europe,,2014-03,2
+Austria,Europe,,2014-03,9
+Spain,Europe,,2014-03,25
+France,Europe,,2014-03,72
+Switzerland,Europe,,2014-03,6
+Italy,Europe,,2014-03,8
+Germany,Europe,,2014-03,37
+HongKong. Macao,Asia,,2014-03,153
+Mainland China,Asia,,2014-03,167
+Japan,Asia,,2014-03,633
+"Korea,Republic of",Asia,,2014-03,322
+India,Asia,,2014-03,21
+Middle East,Asia,,2014-03,15
+Malaysia,Asia,Southeast Asia,2014-03,114
+Netherlands,Europe,,2014-03,7
+Unstated,,,2014-03,0
+Unstated,,,2014-04,0
+"Others, Africa",Africa,,2014-04,16
+Australia,Oceania,,2014-04,24
+"Others, America",America,,2014-04,29
+Belgium,Europe,,2014-04,12
+France,Europe,,2014-04,162
+Germany,Europe,,2014-04,85
+Italy,Europe,,2014-04,20
+Netherlands,Europe,,2014-04,24
+Argentina,America,,2014-04,1
+Switzerland,Europe,,2014-04,10
+United Kingdom,Europe,,2014-04,34
+Austria,Europe,,2014-04,7
+Greece,Europe,,2014-04,1
+Sweden,Europe,,2014-04,19
+Russian Federation,Europe,,2014-04,2
+"Others, Europe",Europe,,2014-04,63
+Spain,Europe,,2014-04,34
+New Zealand,Oceania,,2014-04,2
+Brazil,America,,2014-04,1
+United States of America,America,,2014-04,268
+Mainland China,Asia,,2014-04,684
+HongKong. Macao,Asia,,2014-04,393
+"Korea,Republic of",Asia,,2014-04,382
+India,Asia,,2014-04,12
+Middle East,Asia,,2014-04,10
+Malaysia,Asia,Southeast Asia,2014-04,193
+Mexico,America,,2014-04,3
+Singapore,Asia,Southeast Asia,2014-04,111
+Philippines,Asia,Southeast Asia,2014-04,164
+Thailand,Asia,Southeast Asia,2014-04,153
+Vietnam,Asia,Southeast Asia,2014-04,58
+"Others, Southeast Asia",Asia,Southeast Asia,2014-04,6
+"Others, Asia",Asia,,2014-04,13
+Canada,America,,2014-04,47
+Indonesia,Asia,Southeast Asia,2014-04,45
+"Others, Oceania",Oceania,,2014-04,9
+Japan,Asia,,2014-04,339
+S. Africa,Africa,,2014-04,0
+Japan,Asia,,2014-05,347
+France,Europe,,2014-05,127
+Germany,Europe,,2014-05,47
+Italy,Europe,,2014-05,20
+Netherlands,Europe,,2014-05,27
+Australia,Oceania,,2014-05,20
+Switzerland,Europe,,2014-05,15
+Spain,Europe,,2014-05,17
+United Kingdom,Europe,,2014-05,36
+Austria,Europe,,2014-05,15
+Sweden,Europe,,2014-05,19
+Russian Federation,Europe,,2014-05,18
+S. Africa,Africa,,2014-05,2
+"Others, Europe",Europe,,2014-05,51
+New Zealand,Oceania,,2014-05,3
+"Others, Oceania",Oceania,,2014-05,8
+"Others, Africa",Africa,,2014-05,15
+Greece,Europe,,2014-05,3
+Belgium,Europe,,2014-05,10
+"Others, America",America,,2014-05,29
+Brazil,America,,2014-05,1
+Unstated,,,2014-05,0
+"Korea,Republic of",Asia,,2014-05,326
+India,Asia,,2014-05,49
+Middle East,Asia,,2014-05,11
+Malaysia,Asia,Southeast Asia,2014-05,84
+Singapore,Asia,Southeast Asia,2014-05,213
+Indonesia,Asia,Southeast Asia,2014-05,42
+Mainland China,Asia,,2014-05,211
+HongKong. Macao,Asia,,2014-05,179
+Thailand,Asia,Southeast Asia,2014-05,94
+Vietnam,Asia,Southeast Asia,2014-05,52
+"Others, Southeast Asia",Asia,Southeast Asia,2014-05,8
+"Others, Asia",Asia,,2014-05,14
+Canada,America,,2014-05,46
+United States of America,America,,2014-05,382
+Mexico,America,,2014-05,9
+Philippines,Asia,Southeast Asia,2014-05,88
+Argentina,America,,2014-05,0
+United Kingdom,Europe,,2014-06,35
+Mainland China,Asia,,2014-06,198
+Sweden,Europe,,2014-06,11
+Canada,America,,2014-06,70
+United States of America,America,,2014-06,809
+Mexico,America,,2014-06,35
+Brazil,America,,2014-06,8
+Argentina,America,,2014-06,1
+"Others, America",America,,2014-06,23
+Belgium,Europe,,2014-06,15
+France,Europe,,2014-06,195
+Germany,Europe,,2014-06,56
+Italy,Europe,,2014-06,32
+Netherlands,Europe,,2014-06,55
+Switzerland,Europe,,2014-06,13
+Greece,Europe,,2014-06,1
+Austria,Europe,,2014-06,13
+Russian Federation,Europe,,2014-06,17
+"Others, Europe",Europe,,2014-06,82
+Australia,Oceania,,2014-06,32
+New Zealand,Oceania,,2014-06,6
+Japan,Asia,,2014-06,293
+"Korea,Republic of",Asia,,2014-06,313
+India,Asia,,2014-06,23
+Middle East,Asia,,2014-06,18
+Malaysia,Asia,Southeast Asia,2014-06,107
+Singapore,Asia,Southeast Asia,2014-06,116
+Indonesia,Asia,Southeast Asia,2014-06,346
+HongKong. Macao,Asia,,2014-06,418
+Philippines,Asia,Southeast Asia,2014-06,23
+Spain,Europe,,2014-06,37
+"Others, Southeast Asia",Asia,Southeast Asia,2014-06,4
+"Others, Asia",Asia,,2014-06,46
+Unstated,,,2014-06,2
+"Others, Africa",Africa,,2014-06,12
+S. Africa,Africa,,2014-06,3
+"Others, Oceania",Oceania,,2014-06,1
+Thailand,Asia,Southeast Asia,2014-06,128
+Vietnam,Asia,Southeast Asia,2014-06,124
+Netherlands,Europe,,2014-07,20
+Switzerland,Europe,,2014-07,13
+Argentina,America,,2014-07,7
+"Others, America",America,,2014-07,43
+Belgium,Europe,,2014-07,11
+France,Europe,,2014-07,124
+Germany,Europe,,2014-07,75
+Italy,Europe,,2014-07,23
+Spain,Europe,,2014-07,32
+United Kingdom,Europe,,2014-07,18
+Austria,Europe,,2014-07,16
+Greece,Europe,,2014-07,0
+Sweden,Europe,,2014-07,5
+Russian Federation,Europe,,2014-07,14
+"Others, Europe",Europe,,2014-07,99
+Australia,Oceania,,2014-07,28
+New Zealand,Oceania,,2014-07,5
+"Others, Oceania",Oceania,,2014-07,0
+S. Africa,Africa,,2014-07,0
+"Others, Africa",Africa,,2014-07,12
+Unstated,,,2014-07,1
+Mexico,America,,2014-07,7
+United States of America,America,,2014-07,455
+Brazil,America,,2014-07,2
+"Others, Asia",Asia,,2014-07,16
+HongKong. Macao,Asia,,2014-07,274
+Mainland China,Asia,,2014-07,281
+Canada,America,,2014-07,33
+"Korea,Republic of",Asia,,2014-07,363
+India,Asia,,2014-07,20
+Middle East,Asia,,2014-07,14
+Malaysia,Asia,Southeast Asia,2014-07,159
+Japan,Asia,,2014-07,292
+Indonesia,Asia,Southeast Asia,2014-07,64
+Philippines,Asia,Southeast Asia,2014-07,12
+Thailand,Asia,Southeast Asia,2014-07,118
+Vietnam,Asia,Southeast Asia,2014-07,124
+"Others, Southeast Asia",Asia,Southeast Asia,2014-07,3
+Singapore,Asia,Southeast Asia,2014-07,34
+Malaysia,Asia,Southeast Asia,2014-08,249
+Thailand,Asia,Southeast Asia,2014-08,61
+Philippines,Asia,Southeast Asia,2014-08,37
+Indonesia,Asia,Southeast Asia,2014-08,198
+Austria,Europe,,2014-08,19
+HongKong. Macao,Asia,,2014-08,625
+India,Asia,,2014-08,41
+Japan,Asia,,2014-08,1044
+"Korea,Republic of",Asia,,2014-08,422
+Middle East,Asia,,2014-08,23
+Vietnam,Asia,Southeast Asia,2014-08,100
+Singapore,Asia,Southeast Asia,2014-08,152
+Mainland China,Asia,,2014-08,688
+"Others, Southeast Asia",Asia,Southeast Asia,2014-08,8
+New Zealand,Oceania,,2014-08,4
+Canada,America,,2014-08,51
+United States of America,America,,2014-08,401
+Mexico,America,,2014-08,21
+Brazil,America,,2014-08,20
+Greece,Europe,,2014-08,5
+Argentina,America,,2014-08,3
+"Others, America",America,,2014-08,143
+Belgium,Europe,,2014-08,29
+France,Europe,,2014-08,140
+Germany,Europe,,2014-08,177
+Italy,Europe,,2014-08,36
+Netherlands,Europe,,2014-08,43
+Switzerland,Europe,,2014-08,17
+"Others, Asia",Asia,,2014-08,76
+"Others, Oceania",Oceania,,2014-08,12
+United Kingdom,Europe,,2014-08,71
+Spain,Europe,,2014-08,29
+Australia,Oceania,,2014-08,35
+"Others, Europe",Europe,,2014-08,109
+Russian Federation,Europe,,2014-08,35
+Sweden,Europe,,2014-08,24
+S. Africa,Africa,,2014-08,5
+"Others, Africa",Africa,,2014-08,15
+Unstated,,,2014-08,0
+Vietnam,Asia,Southeast Asia,2014-09,155
+"Others, Southeast Asia",Asia,Southeast Asia,2014-09,17
+"Others, Asia",Asia,,2014-09,93
+Canada,America,,2014-09,28
+France,Europe,,2014-09,198
+Mexico,America,,2014-09,6
+Brazil,America,,2014-09,7
+Thailand,Asia,Southeast Asia,2014-09,88
+United States of America,America,,2014-09,257
+Philippines,Asia,Southeast Asia,2014-09,37
+Middle East,Asia,,2014-09,55
+Singapore,Asia,Southeast Asia,2014-09,375
+Malaysia,Asia,Southeast Asia,2014-09,435
+Argentina,America,,2014-09,2
+India,Asia,,2014-09,67
+"Korea,Republic of",Asia,,2014-09,519
+Japan,Asia,,2014-09,607
+Mainland China,Asia,,2014-09,4939
+HongKong. Macao,Asia,,2014-09,3373
+Indonesia,Asia,Southeast Asia,2014-09,174
+Belgium,Europe,,2014-09,45
+Austria,Europe,,2014-09,15
+"Others, Europe",Europe,,2014-09,156
+New Zealand,Oceania,,2014-09,9
+Australia,Oceania,,2014-09,27
+"Others, Africa",Africa,,2014-09,108
+Russian Federation,Europe,,2014-09,29
+Sweden,Europe,,2014-09,61
+Unstated,,,2014-09,0
+"Others, Oceania",Oceania,,2014-09,15
+Greece,Europe,,2014-09,3
+United Kingdom,Europe,,2014-09,25
+Spain,Europe,,2014-09,59
+Switzerland,Europe,,2014-09,25
+Netherlands,Europe,,2014-09,62
+Italy,Europe,,2014-09,60
+Germany,Europe,,2014-09,246
+"Others, America",America,,2014-09,101
+S. Africa,Africa,,2014-09,1
+"Korea,Republic of",Asia,,2014-10,292
+Japan,Asia,,2014-10,325
+Mainland China,Asia,,2014-10,387
+"Others, Southeast Asia",Asia,Southeast Asia,2014-10,9
+"Others, Oceania",Oceania,,2014-10,34
+India,Asia,,2014-10,18
+Unstated,,,2014-10,0
+HongKong. Macao,Asia,,2014-10,162
+Middle East,Asia,,2014-10,19
+Malaysia,Asia,Southeast Asia,2014-10,88
+Singapore,Asia,Southeast Asia,2014-10,178
+"Others, Asia",Asia,,2014-10,27
+Canada,America,,2014-10,22
+United States of America,America,,2014-10,189
+Mexico,America,,2014-10,6
+Brazil,America,,2014-10,5
+Argentina,America,,2014-10,6
+"Others, America",America,,2014-10,91
+Belgium,Europe,,2014-10,22
+France,Europe,,2014-10,63
+Germany,Europe,,2014-10,90
+Thailand,Asia,Southeast Asia,2014-10,43
+Vietnam,Asia,Southeast Asia,2014-10,64
+Netherlands,Europe,,2014-10,21
+Spain,Europe,,2014-10,27
+United Kingdom,Europe,,2014-10,17
+Austria,Europe,,2014-10,10
+Greece,Europe,,2014-10,0
+Sweden,Europe,,2014-10,24
+Russian Federation,Europe,,2014-10,9
+Philippines,Asia,Southeast Asia,2014-10,16
+Indonesia,Asia,Southeast Asia,2014-10,36
+"Others, Europe",Europe,,2014-10,56
+Australia,Oceania,,2014-10,12
+New Zealand,Oceania,,2014-10,14
+Switzerland,Europe,,2014-10,11
+Italy,Europe,,2014-10,36
+"Others, Africa",Africa,,2014-10,14
+S. Africa,Africa,,2014-10,2
+Belgium,Europe,,2014-11,31
+Canada,America,,2014-11,40
+"Others, Asia",Asia,,2014-11,39
+"Others, Southeast Asia",Asia,Southeast Asia,2014-11,1
+Vietnam,Asia,Southeast Asia,2014-11,147
+Thailand,Asia,Southeast Asia,2014-11,68
+Philippines,Asia,Southeast Asia,2014-11,20
+Indonesia,Asia,Southeast Asia,2014-11,83
+Singapore,Asia,Southeast Asia,2014-11,405
+Middle East,Asia,,2014-11,14
+India,Asia,,2014-11,17
+"Korea,Republic of",Asia,,2014-11,383
+Japan,Asia,,2014-11,537
+Mainland China,Asia,,2014-11,455
+HongKong. Macao,Asia,,2014-11,118
+Unstated,,,2014-11,0
+France,Europe,,2014-11,135
+United States of America,America,,2014-11,220
+Mexico,America,,2014-11,7
+Malaysia,Asia,Southeast Asia,2014-11,106
+Argentina,America,,2014-11,3
+Italy,Europe,,2014-11,38
+Germany,Europe,,2014-11,164
+Brazil,America,,2014-11,7
+Netherlands,Europe,,2014-11,60
+Switzerland,Europe,,2014-11,14
+Spain,Europe,,2014-11,23
+Austria,Europe,,2014-11,35
+Greece,Europe,,2014-11,0
+Sweden,Europe,,2014-11,21
+United Kingdom,Europe,,2014-11,37
+Russian Federation,Europe,,2014-11,22
+"Others, America",America,,2014-11,44
+"Others, Africa",Africa,,2014-11,3
+S. Africa,Africa,,2014-11,3
+"Others, Oceania",Oceania,,2014-11,3
+Australia,Oceania,,2014-11,68
+"Others, Europe",Europe,,2014-11,91
+New Zealand,Oceania,,2014-11,10
+"Others, America",America,,2014-12,16
+Belgium,Europe,,2014-12,28
+France,Europe,,2014-12,118
+Argentina,America,,2014-12,1
+Germany,Europe,,2014-12,127
+Spain,Europe,,2014-12,48
+Netherlands,Europe,,2014-12,57
+Switzerland,Europe,,2014-12,12
+United Kingdom,Europe,,2014-12,16
+"Others, Oceania",Oceania,,2014-12,0
+Greece,Europe,,2014-12,1
+Sweden,Europe,,2014-12,29
+Russian Federation,Europe,,2014-12,9
+"Others, Europe",Europe,,2014-12,83
+Australia,Oceania,,2014-12,77
+New Zealand,Oceania,,2014-12,2
+Unstated,,,2014-12,0
+"Others, Africa",Africa,,2014-12,28
+S. Africa,Africa,,2014-12,2
+Brazil,America,,2014-12,10
+Austria,Europe,,2014-12,16
+Mexico,America,,2014-12,4
+Italy,Europe,,2014-12,28
+Canada,America,,2014-12,30
+United States of America,America,,2014-12,217
+Mainland China,Asia,,2014-12,415
+Japan,Asia,,2014-12,379
+"Korea,Republic of",Asia,,2014-12,390
+India,Asia,,2014-12,12
+Middle East,Asia,,2014-12,5
+Malaysia,Asia,Southeast Asia,2014-12,71
+HongKong. Macao,Asia,,2014-12,120
+Indonesia,Asia,Southeast Asia,2014-12,70
+Philippines,Asia,Southeast Asia,2014-12,34
+Thailand,Asia,Southeast Asia,2014-12,65
+Vietnam,Asia,Southeast Asia,2014-12,50
+"Others, Southeast Asia",Asia,Southeast Asia,2014-12,0
+Singapore,Asia,Southeast Asia,2014-12,182
+"Others, Asia",Asia,,2014-12,11
+HongKong. Macao,Asia,,2015-01,145
+Belgium,Europe,,2015-01,26
+France,Europe,,2015-01,98
+Germany,Europe,,2015-01,82
+Italy,Europe,,2015-01,49
+Switzerland,Europe,,2015-01,12
+Netherlands,Europe,,2015-01,32
+Spain,Europe,,2015-01,30
+United Kingdom,Europe,,2015-01,24
+Austria,Europe,,2015-01,6
+Mainland China,Asia,,2015-01,293
+Argentina,America,,2015-01,1
+Japan,Asia,,2015-01,285
+Thailand,Asia,Southeast Asia,2015-01,34
+India,Asia,,2015-01,29
+Middle East,Asia,,2015-01,9
+Malaysia,Asia,Southeast Asia,2015-01,73
+Singapore,Asia,Southeast Asia,2015-01,41
+Indonesia,Asia,Southeast Asia,2015-01,33
+Philippines,Asia,Southeast Asia,2015-01,20
+Sweden,Europe,,2015-01,19
+Vietnam,Asia,Southeast Asia,2015-01,144
+"Others, Southeast Asia",Asia,Southeast Asia,2015-01,1
+"Others, Asia",Asia,,2015-01,16
+Canada,America,,2015-01,27
+United States of America,America,,2015-01,247
+Mexico,America,,2015-01,2
+Brazil,America,,2015-01,6
+"Korea,Republic of",Asia,,2015-01,532
+Russian Federation,Europe,,2015-01,32
+Greece,Europe,,2015-01,1
+Australia,Oceania,,2015-01,36
+"Others, Europe",Europe,,2015-01,69
+Unstated,,,2015-01,0
+"Others, Africa",Africa,,2015-01,17
+"Others, America",America,,2015-01,41
+"Others, Oceania",Oceania,,2015-01,1
+New Zealand,Oceania,,2015-01,5
+S. Africa,Africa,,2015-01,4
+Russian Federation,Europe,,2015-02,25
+"Others, Europe",Europe,,2015-02,125
+Australia,Oceania,,2015-02,28
+New Zealand,Oceania,,2015-02,6
+"Others, Oceania",Oceania,,2015-02,1
+S. Africa,Africa,,2015-02,4
+Sweden,Europe,,2015-02,32
+Greece,Europe,,2015-02,0
+Austria,Europe,,2015-02,15
+United Kingdom,Europe,,2015-02,44
+Switzerland,Europe,,2015-02,27
+Netherlands,Europe,,2015-02,41
+Germany,Europe,,2015-02,138
+France,Europe,,2015-02,289
+Belgium,Europe,,2015-02,25
+"Others, America",America,,2015-02,40
+Argentina,America,,2015-02,1
+Brazil,America,,2015-02,8
+Mexico,America,,2015-02,7
+"Others, Africa",Africa,,2015-02,11
+Unstated,,,2015-02,1
+Spain,Europe,,2015-02,39
+Italy,Europe,,2015-02,37
+Philippines,Asia,Southeast Asia,2015-02,28
+Canada,America,,2015-02,61
+HongKong. Macao,Asia,,2015-02,267
+Mainland China,Asia,,2015-02,4002
+"Korea,Republic of",Asia,,2015-02,645
+India,Asia,,2015-02,40
+Middle East,Asia,,2015-02,17
+Malaysia,Asia,Southeast Asia,2015-02,403
+Japan,Asia,,2015-02,544
+Indonesia,Asia,Southeast Asia,2015-02,103
+Thailand,Asia,Southeast Asia,2015-02,67
+Vietnam,Asia,Southeast Asia,2015-02,65
+"Others, Southeast Asia",Asia,Southeast Asia,2015-02,6
+"Others, Asia",Asia,,2015-02,46
+Singapore,Asia,Southeast Asia,2015-02,78
+United States of America,America,,2015-02,319
+New Zealand,Oceania,,2015-03,3
+Japan,Asia,,2015-03,753
+Mainland China,Asia,,2015-03,1848
+HongKong. Macao,Asia,,2015-03,363
+Unstated,,,2015-03,0
+"Others, Africa",Africa,,2015-03,22
+S. Africa,Africa,,2015-03,0
+"Others, Oceania",Oceania,,2015-03,5
+Greece,Europe,,2015-03,1
+Switzerland,Europe,,2015-03,20
+Spain,Europe,,2015-03,18
+United Kingdom,Europe,,2015-03,35
+"Others, Europe",Europe,,2015-03,37
+Austria,Europe,,2015-03,6
+"Korea,Republic of",Asia,,2015-03,331
+Sweden,Europe,,2015-03,4
+Russian Federation,Europe,,2015-03,15
+Australia,Oceania,,2015-03,34
+India,Asia,,2015-03,17
+Middle East,Asia,,2015-03,21
+Malaysia,Asia,Southeast Asia,2015-03,199
+Italy,Europe,,2015-03,20
+Netherlands,Europe,,2015-03,17
+Belgium,Europe,,2015-03,7
+"Others, America",America,,2015-03,40
+Argentina,America,,2015-03,4
+Germany,Europe,,2015-03,65
+Mexico,America,,2015-03,8
+United States of America,America,,2015-03,347
+Brazil,America,,2015-03,7
+"Others, Asia",Asia,,2015-03,30
+"Others, Southeast Asia",Asia,Southeast Asia,2015-03,8
+Vietnam,Asia,Southeast Asia,2015-03,82
+Thailand,Asia,Southeast Asia,2015-03,187
+Philippines,Asia,Southeast Asia,2015-03,21
+Indonesia,Asia,Southeast Asia,2015-03,112
+Singapore,Asia,Southeast Asia,2015-03,147
+Canada,America,,2015-03,44
+France,Europe,,2015-03,75
+"Others, Asia",Asia,,2015-04,19
+"Others, Southeast Asia",Asia,Southeast Asia,2015-04,10
+Vietnam,Asia,Southeast Asia,2015-04,23
+Thailand,Asia,Southeast Asia,2015-04,42
+"Korea,Republic of",Asia,,2015-04,308
+Indonesia,Asia,Southeast Asia,2015-04,40
+Singapore,Asia,Southeast Asia,2015-04,56
+Malaysia,Asia,Southeast Asia,2015-04,103
+Middle East,Asia,,2015-04,18
+India,Asia,,2015-04,21
+Canada,America,,2015-04,38
+Japan,Asia,,2015-04,198
+Philippines,Asia,Southeast Asia,2015-04,185
+United States of America,America,,2015-04,301
+"Others, Europe",Europe,,2015-04,58
+Brazil,America,,2015-04,3
+Unstated,,,2015-04,0
+"Others, Africa",Africa,,2015-04,18
+S. Africa,Africa,,2015-04,2
+"Others, Oceania",Oceania,,2015-04,5
+New Zealand,Oceania,,2015-04,9
+Australia,Oceania,,2015-04,24
+Russian Federation,Europe,,2015-04,2
+Sweden,Europe,,2015-04,16
+Greece,Europe,,2015-04,0
+Austria,Europe,,2015-04,4
+United Kingdom,Europe,,2015-04,13
+Spain,Europe,,2015-04,19
+Switzerland,Europe,,2015-04,9
+Netherlands,Europe,,2015-04,43
+Italy,Europe,,2015-04,14
+Germany,Europe,,2015-04,47
+France,Europe,,2015-04,168
+Belgium,Europe,,2015-04,13
+"Others, America",America,,2015-04,20
+Mexico,America,,2015-04,5
+Argentina,America,,2015-04,3
+HongKong. Macao,Asia,,2015-04,187
+Mainland China,Asia,,2015-04,1446
+Argentina,America,,2015-05,3
+Germany,Europe,,2015-05,72
+Italy,Europe,,2015-05,26
+Netherlands,Europe,,2015-05,14
+Switzerland,Europe,,2015-05,13
+Spain,Europe,,2015-05,20
+United Kingdom,Europe,,2015-05,32
+France,Europe,,2015-05,172
+Austria,Europe,,2015-05,22
+Sweden,Europe,,2015-05,18
+Russian Federation,Europe,,2015-05,11
+"Others, Europe",Europe,,2015-05,66
+Australia,Oceania,,2015-05,31
+New Zealand,Oceania,,2015-05,6
+"Others, Oceania",Oceania,,2015-05,3
+S. Africa,Africa,,2015-05,1
+Greece,Europe,,2015-05,0
+"Others, Africa",Africa,,2015-05,19
+Belgium,Europe,,2015-05,16
+Brazil,America,,2015-05,7
+Mainland China,Asia,,2015-05,620
+Japan,Asia,,2015-05,351
+"Korea,Republic of",Asia,,2015-05,502
+India,Asia,,2015-05,69
+Middle East,Asia,,2015-05,18
+Malaysia,Asia,Southeast Asia,2015-05,98
+Singapore,Asia,Southeast Asia,2015-05,192
+"Others, America",America,,2015-05,54
+Indonesia,Asia,Southeast Asia,2015-05,45
+Thailand,Asia,Southeast Asia,2015-05,84
+Vietnam,Asia,Southeast Asia,2015-05,44
+"Others, Southeast Asia",Asia,Southeast Asia,2015-05,5
+"Others, Asia",Asia,,2015-05,13
+Canada,America,,2015-05,68
+United States of America,America,,2015-05,421
+Mexico,America,,2015-05,6
+Philippines,Asia,Southeast Asia,2015-05,47
+HongKong. Macao,Asia,,2015-05,161
+Unstated,,,2015-05,0
+"Korea,Republic of",Asia,,2015-06,323
+Italy,Europe,,2015-06,27
+Netherlands,Europe,,2015-06,56
+Switzerland,Europe,,2015-06,15
+Spain,Europe,,2015-06,39
+United Kingdom,Europe,,2015-06,43
+Austria,Europe,,2015-06,9
+Greece,Europe,,2015-06,0
+Germany,Europe,,2015-06,49
+Sweden,Europe,,2015-06,17
+"Others, Europe",Europe,,2015-06,82
+Australia,Oceania,,2015-06,36
+New Zealand,Oceania,,2015-06,8
+"Others, Oceania",Oceania,,2015-06,2
+S. Africa,Africa,,2015-06,0
+"Others, Africa",Africa,,2015-06,29
+Unstated,,,2015-06,3
+Russian Federation,Europe,,2015-06,6
+Japan,Asia,,2015-06,283
+Mainland China,Asia,,2015-06,394
+Belgium,Europe,,2015-06,23
+India,Asia,,2015-06,28
+Middle East,Asia,,2015-06,14
+Malaysia,Asia,Southeast Asia,2015-06,129
+Singapore,Asia,Southeast Asia,2015-06,142
+Indonesia,Asia,Southeast Asia,2015-06,388
+Philippines,Asia,Southeast Asia,2015-06,33
+Thailand,Asia,Southeast Asia,2015-06,180
+France,Europe,,2015-06,155
+Vietnam,Asia,Southeast Asia,2015-06,91
+"Others, Asia",Asia,,2015-06,21
+Canada,America,,2015-06,51
+United States of America,America,,2015-06,736
+Mexico,America,,2015-06,14
+Brazil,America,,2015-06,8
+Argentina,America,,2015-06,2
+"Others, America",America,,2015-06,42
+"Others, Southeast Asia",Asia,Southeast Asia,2015-06,14
+HongKong. Macao,Asia,,2015-06,340
+HongKong. Macao,Asia,,2015-07,366
+Unstated,,,2015-07,1
+United States of America,America,,2015-07,494
+Canada,America,,2015-07,41
+"Others, Asia",Asia,,2015-07,16
+"Others, Southeast Asia",Asia,Southeast Asia,2015-07,3
+Vietnam,Asia,Southeast Asia,2015-07,93
+Thailand,Asia,Southeast Asia,2015-07,101
+Philippines,Asia,Southeast Asia,2015-07,16
+Indonesia,Asia,Southeast Asia,2015-07,141
+Singapore,Asia,Southeast Asia,2015-07,64
+Malaysia,Asia,Southeast Asia,2015-07,249
+Middle East,Asia,,2015-07,13
+India,Asia,,2015-07,37
+"Korea,Republic of",Asia,,2015-07,385
+Japan,Asia,,2015-07,284
+Mainland China,Asia,,2015-07,432
+Mexico,America,,2015-07,32
+Brazil,America,,2015-07,8
+Argentina,America,,2015-07,1
+Greece,Europe,,2015-07,2
+"Others, Africa",Africa,,2015-07,5
+S. Africa,Africa,,2015-07,7
+"Others, Oceania",Oceania,,2015-07,1
+New Zealand,Oceania,,2015-07,1
+Australia,Oceania,,2015-07,47
+"Others, Europe",Europe,,2015-07,77
+Russian Federation,Europe,,2015-07,16
+Sweden,Europe,,2015-07,2
+Spain,Europe,,2015-07,35
+Austria,Europe,,2015-07,30
+United Kingdom,Europe,,2015-07,31
+Switzerland,Europe,,2015-07,21
+Netherlands,Europe,,2015-07,24
+Italy,Europe,,2015-07,34
+Germany,Europe,,2015-07,83
+France,Europe,,2015-07,129
+Belgium,Europe,,2015-07,8
+"Others, America",America,,2015-07,29
+"Others, Europe",Europe,,2015-08,91
+Australia,Oceania,,2015-08,42
+"Others, Africa",Africa,,2015-08,29
+Philippines,Asia,Southeast Asia,2015-08,30
+Indonesia,Asia,Southeast Asia,2015-08,209
+Singapore,Asia,Southeast Asia,2015-08,111
+Malaysia,Asia,Southeast Asia,2015-08,203
+Middle East,Asia,,2015-08,31
+India,Asia,,2015-08,28
+"Korea,Republic of",Asia,,2015-08,490
+Japan,Asia,,2015-08,1143
+Mainland China,Asia,,2015-08,1214
+HongKong. Macao,Asia,,2015-08,926
+Sweden,Europe,,2015-08,21
+Russian Federation,Europe,,2015-08,23
+Unstated,,,2015-08,0
+S. Africa,Africa,,2015-08,6
+"Others, Oceania",Oceania,,2015-08,9
+Thailand,Asia,Southeast Asia,2015-08,64
+Vietnam,Asia,Southeast Asia,2015-08,132
+"Others, Southeast Asia",Asia,Southeast Asia,2015-08,31
+"Others, Asia",Asia,,2015-08,47
+United Kingdom,Europe,,2015-08,63
+Austria,Europe,,2015-08,14
+Greece,Europe,,2015-08,5
+Spain,Europe,,2015-08,37
+Switzerland,Europe,,2015-08,17
+Netherlands,Europe,,2015-08,40
+Italy,Europe,,2015-08,53
+New Zealand,Oceania,,2015-08,7
+Germany,Europe,,2015-08,139
+Belgium,Europe,,2015-08,17
+"Others, America",America,,2015-08,103
+Argentina,America,,2015-08,7
+Brazil,America,,2015-08,22
+Mexico,America,,2015-08,31
+United States of America,America,,2015-08,424
+Canada,America,,2015-08,46
+France,Europe,,2015-08,179
+HongKong. Macao,Asia,,2015-09,3164
+Unstated,,,2015-09,0
+Japan,Asia,,2015-09,629
+Germany,Europe,,2015-09,244
+Italy,Europe,,2015-09,62
+Mainland China,Asia,,2015-09,6453
+Switzerland,Europe,,2015-09,19
+Spain,Europe,,2015-09,47
+United Kingdom,Europe,,2015-09,46
+Austria,Europe,,2015-09,29
+France,Europe,,2015-09,224
+Greece,Europe,,2015-09,1
+Russian Federation,Europe,,2015-09,29
+"Others, Europe",Europe,,2015-09,167
+Australia,Oceania,,2015-09,24
+New Zealand,Oceania,,2015-09,10
+"Others, Oceania",Oceania,,2015-09,24
+S. Africa,Africa,,2015-09,3
+"Others, Africa",Africa,,2015-09,39
+Sweden,Europe,,2015-09,63
+Belgium,Europe,,2015-09,42
+Netherlands,Europe,,2015-09,86
+Argentina,America,,2015-09,4
+"Korea,Republic of",Asia,,2015-09,659
+India,Asia,,2015-09,85
+Middle East,Asia,,2015-09,43
+"Others, America",America,,2015-09,116
+Malaysia,Asia,Southeast Asia,2015-09,429
+Singapore,Asia,Southeast Asia,2015-09,367
+Philippines,Asia,Southeast Asia,2015-09,76
+Indonesia,Asia,Southeast Asia,2015-09,221
+Vietnam,Asia,Southeast Asia,2015-09,110
+"Others, Southeast Asia",Asia,Southeast Asia,2015-09,14
+"Others, Asia",Asia,,2015-09,83
+Canada,America,,2015-09,47
+United States of America,America,,2015-09,211
+Mexico,America,,2015-09,13
+Brazil,America,,2015-09,7
+Thailand,Asia,Southeast Asia,2015-09,70
+Malaysia,Asia,Southeast Asia,2015-10,73
+Indonesia,Asia,Southeast Asia,2015-10,52
+Singapore,Asia,Southeast Asia,2015-10,111
+Middle East,Asia,,2015-10,13
+HongKong. Macao,Asia,,2015-10,124
+"Korea,Republic of",Asia,,2015-10,496
+Philippines,Asia,Southeast Asia,2015-10,31
+Japan,Asia,,2015-10,268
+India,Asia,,2015-10,8
+Thailand,Asia,Southeast Asia,2015-10,33
+Mainland China,Asia,,2015-10,759
+"Others, Southeast Asia",Asia,Southeast Asia,2015-10,8
+Netherlands,Europe,,2015-10,36
+Switzerland,Europe,,2015-10,6
+United Kingdom,Europe,,2015-10,20
+Austria,Europe,,2015-10,11
+Greece,Europe,,2015-10,0
+Sweden,Europe,,2015-10,26
+Russian Federation,Europe,,2015-10,12
+"Others, Europe",Europe,,2015-10,75
+Australia,Oceania,,2015-10,19
+New Zealand,Oceania,,2015-10,5
+"Others, Oceania",Oceania,,2015-10,23
+S. Africa,Africa,,2015-10,4
+"Others, Africa",Africa,,2015-10,23
+Unstated,,,2015-10,0
+Vietnam,Asia,Southeast Asia,2015-10,51
+Italy,Europe,,2015-10,48
+Germany,Europe,,2015-10,90
+Spain,Europe,,2015-10,32
+Brazil,America,,2015-10,8
+Mexico,America,,2015-10,10
+Argentina,America,,2015-10,7
+"Others, America",America,,2015-10,82
+Belgium,Europe,,2015-10,24
+France,Europe,,2015-10,104
+United States of America,America,,2015-10,167
+"Others, Asia",Asia,,2015-10,24
+Canada,America,,2015-10,24
+Malaysia,Asia,Southeast Asia,2015-11,89
+S. Africa,Africa,,2015-11,1
+"Others, Southeast Asia",Asia,Southeast Asia,2015-11,7
+"Others, Oceania",Oceania,,2015-11,3
+HongKong. Macao,Asia,,2015-11,154
+Vietnam,Asia,Southeast Asia,2015-11,81
+Mainland China,Asia,,2015-11,912
+Middle East,Asia,,2015-11,26
+Japan,Asia,,2015-11,418
+Australia,Oceania,,2015-11,81
+New Zealand,Oceania,,2015-11,6
+Philippines,Asia,Southeast Asia,2015-11,49
+"Korea,Republic of",Asia,,2015-11,462
+India,Asia,,2015-11,31
+Singapore,Asia,Southeast Asia,2015-11,325
+Thailand,Asia,Southeast Asia,2015-11,46
+Indonesia,Asia,Southeast Asia,2015-11,137
+France,Europe,,2015-11,169
+Sweden,Europe,,2015-11,40
+Belgium,Europe,,2015-11,25
+"Others, America",America,,2015-11,27
+Argentina,America,,2015-11,5
+Brazil,America,,2015-11,12
+Mexico,America,,2015-11,8
+United States of America,America,,2015-11,183
+Canada,America,,2015-11,43
+Germany,Europe,,2015-11,183
+"Others, Asia",Asia,,2015-11,36
+Netherlands,Europe,,2015-11,83
+Switzerland,Europe,,2015-11,23
+Spain,Europe,,2015-11,45
+"Others, Africa",Africa,,2015-11,11
+United Kingdom,Europe,,2015-11,37
+Austria,Europe,,2015-11,27
+Greece,Europe,,2015-11,1
+Italy,Europe,,2015-11,60
+Unstated,,,2015-11,1
+"Others, Europe",Europe,,2015-11,109
+Russian Federation,Europe,,2015-11,13
+Mainland China,Asia,,2015-12,691
+Canada,America,,2015-12,26
+United States of America,America,,2015-12,202
+Mexico,America,,2015-12,4
+Brazil,America,,2015-12,16
+Argentina,America,,2015-12,2
+"Others, America",America,,2015-12,10
+France,Europe,,2015-12,136
+Germany,Europe,,2015-12,126
+Italy,Europe,,2015-12,44
+Netherlands,Europe,,2015-12,53
+Switzerland,Europe,,2015-12,19
+Spain,Europe,,2015-12,47
+United Kingdom,Europe,,2015-12,21
+Austria,Europe,,2015-12,18
+Greece,Europe,,2015-12,1
+"Others, Asia",Asia,,2015-12,12
+HongKong. Macao,Asia,,2015-12,205
+"Others, Southeast Asia",Asia,Southeast Asia,2015-12,12
+"Others, Africa",Africa,,2015-12,10
+Japan,Asia,,2015-12,359
+Sweden,Europe,,2015-12,38
+Russian Federation,Europe,,2015-12,6
+"Others, Europe",Europe,,2015-12,82
+"Korea,Republic of",Asia,,2015-12,478
+India,Asia,,2015-12,9
+Middle East,Asia,,2015-12,10
+Unstated,,,2015-12,0
+Malaysia,Asia,Southeast Asia,2015-12,75
+Indonesia,Asia,Southeast Asia,2015-12,88
+Philippines,Asia,Southeast Asia,2015-12,21
+Vietnam,Asia,Southeast Asia,2015-12,38
+Australia,Oceania,,2015-12,63
+New Zealand,Oceania,,2015-12,3
+"Others, Oceania",Oceania,,2015-12,0
+S. Africa,Africa,,2015-12,2
+Singapore,Asia,Southeast Asia,2015-12,146
+Thailand,Asia,Southeast Asia,2015-12,44
+Belgium,Europe,,2015-12,26
+"Others, America",America,,2016-01,40
+Canada,America,,2016-01,27
+United States of America,America,,2016-01,265
+Mexico,America,,2016-01,4
+Brazil,America,,2016-01,22
+Argentina,America,,2016-01,3
+Belgium,Europe,,2016-01,20
+France,Europe,,2016-01,138
+Germany,Europe,,2016-01,99
+Italy,Europe,,2016-01,32
+Netherlands,Europe,,2016-01,46
+Switzerland,Europe,,2016-01,14
+Spain,Europe,,2016-01,42
+United Kingdom,Europe,,2016-01,24
+Austria,Europe,,2016-01,14
+Greece,Europe,,2016-01,1
+Sweden,Europe,,2016-01,21
+Russian Federation,Europe,,2016-01,34
+"Others, Europe",Europe,,2016-01,91
+Australia,Oceania,,2016-01,65
+New Zealand,Oceania,,2016-01,8
+"Others, Oceania",Oceania,,2016-01,2
+S. Africa,Africa,,2016-01,3
+Unstated,,,2016-01,0
+"Others, Asia",Asia,,2016-01,19
+"Others, Southeast Asia",Asia,Southeast Asia,2016-01,3
+"Others, Africa",Africa,,2016-01,4
+Thailand,Asia,Southeast Asia,2016-01,43
+Vietnam,Asia,Southeast Asia,2016-01,66
+HongKong. Macao,Asia,,2016-01,160
+Mainland China,Asia,,2016-01,425
+"Korea,Republic of",Asia,,2016-01,592
+India,Asia,,2016-01,24
+Japan,Asia,,2016-01,303
+Middle East,Asia,,2016-01,5
+Malaysia,Asia,Southeast Asia,2016-01,58
+Singapore,Asia,Southeast Asia,2016-01,49
+Indonesia,Asia,Southeast Asia,2016-01,22
+Philippines,Asia,Southeast Asia,2016-01,19
+United Kingdom,Europe,,2016-02,56
+France,Europe,,2016-02,267
+Germany,Europe,,2016-02,188
+Netherlands,Europe,,2016-02,49
+Switzerland,Europe,,2016-02,17
+Spain,Europe,,2016-02,48
+Belgium,Europe,,2016-02,32
+Austria,Europe,,2016-02,25
+New Zealand,Oceania,,2016-02,6
+Unstated,,,2016-02,0
+"Others, Africa",Africa,,2016-02,35
+S. Africa,Africa,,2016-02,1
+"Others, Oceania",Oceania,,2016-02,4
+"Others, America",America,,2016-02,49
+Australia,Oceania,,2016-02,40
+"Others, Europe",Europe,,2016-02,144
+Russian Federation,Europe,,2016-02,29
+Sweden,Europe,,2016-02,45
+Greece,Europe,,2016-02,2
+Argentina,America,,2016-02,7
+Italy,Europe,,2016-02,43
+Mexico,America,,2016-02,17
+Vietnam,Asia,Southeast Asia,2016-02,135
+Thailand,Asia,Southeast Asia,2016-02,153
+Philippines,Asia,Southeast Asia,2016-02,45
+Indonesia,Asia,Southeast Asia,2016-02,218
+Singapore,Asia,Southeast Asia,2016-02,99
+Malaysia,Asia,Southeast Asia,2016-02,447
+Brazil,America,,2016-02,12
+India,Asia,,2016-02,46
+Middle East,Asia,,2016-02,27
+Canada,America,,2016-02,55
+"Korea,Republic of",Asia,,2016-02,742
+"Others, Asia",Asia,,2016-02,44
+"Others, Southeast Asia",Asia,Southeast Asia,2016-02,9
+HongKong. Macao,Asia,,2016-02,292
+Mainland China,Asia,,2016-02,7272
+Japan,Asia,,2016-02,594
+United States of America,America,,2016-02,258
+Mainland China,Asia,,2016-03,668
+"Others, Southeast Asia",Asia,Southeast Asia,2016-03,9
+"Others, Asia",Asia,,2016-03,24
+United States of America,America,,2016-03,353
+Mexico,America,,2016-03,5
+Brazil,America,,2016-03,6
+Argentina,America,,2016-03,3
+"Others, America",America,,2016-03,57
+Belgium,Europe,,2016-03,7
+France,Europe,,2016-03,67
+Canada,America,,2016-03,32
+Vietnam,Asia,Southeast Asia,2016-03,115
+HongKong. Macao,Asia,,2016-03,278
+Germany,Europe,,2016-03,63
+Thailand,Asia,Southeast Asia,2016-03,235
+Philippines,Asia,Southeast Asia,2016-03,45
+Indonesia,Asia,Southeast Asia,2016-03,57
+Singapore,Asia,Southeast Asia,2016-03,98
+Malaysia,Asia,Southeast Asia,2016-03,106
+Middle East,Asia,,2016-03,15
+India,Asia,,2016-03,17
+"Korea,Republic of",Asia,,2016-03,417
+Japan,Asia,,2016-03,671
+Unstated,,,2016-03,0
+Italy,Europe,,2016-03,22
+"Others, Africa",Africa,,2016-03,48
+Switzerland,Europe,,2016-03,7
+"Others, Oceania",Oceania,,2016-03,4
+New Zealand,Oceania,,2016-03,3
+Australia,Oceania,,2016-03,20
+"Others, Europe",Europe,,2016-03,50
+Russian Federation,Europe,,2016-03,8
+Sweden,Europe,,2016-03,11
+Greece,Europe,,2016-03,1
+S. Africa,Africa,,2016-03,2
+Netherlands,Europe,,2016-03,13
+Austria,Europe,,2016-03,18
+United Kingdom,Europe,,2016-03,52
+Spain,Europe,,2016-03,21
+France,Europe,,2016-04,185
+Germany,Europe,,2016-04,81
+Italy,Europe,,2016-04,24
+Netherlands,Europe,,2016-04,47
+Switzerland,Europe,,2016-04,4
+Spain,Europe,,2016-04,38
+United Kingdom,Europe,,2016-04,45
+Austria,Europe,,2016-04,8
+New Zealand,Oceania,,2016-04,4
+Australia,Oceania,,2016-04,35
+Russian Federation,Europe,,2016-04,4
+"Others, Europe",Europe,,2016-04,54
+Mainland China,Asia,,2016-04,2339
+Belgium,Europe,,2016-04,13
+S. Africa,Africa,,2016-04,12
+"Others, Oceania",Oceania,,2016-04,0
+Greece,Europe,,2016-04,1
+Sweden,Europe,,2016-04,35
+United States of America,America,,2016-04,214
+Argentina,America,,2016-04,3
+Japan,Asia,,2016-04,212
+"Korea,Republic of",Asia,,2016-04,277
+India,Asia,,2016-04,5
+Middle East,Asia,,2016-04,32
+Malaysia,Asia,Southeast Asia,2016-04,77
+Singapore,Asia,Southeast Asia,2016-04,72
+Indonesia,Asia,Southeast Asia,2016-04,68
+"Others, America",America,,2016-04,30
+Philippines,Asia,Southeast Asia,2016-04,206
+Vietnam,Asia,Southeast Asia,2016-04,48
+"Others, Southeast Asia",Asia,Southeast Asia,2016-04,3
+"Others, Asia",Asia,,2016-04,4
+Canada,America,,2016-04,45
+"Others, Africa",Africa,,2016-04,9
+Mexico,America,,2016-04,2
+Brazil,America,,2016-04,3
+Thailand,Asia,Southeast Asia,2016-04,34
+Unstated,,,2016-04,0
+HongKong. Macao,Asia,,2016-04,165
+France,Europe,,2016-05,203
+Belgium,Europe,,2016-05,7
+Germany,Europe,,2016-05,93
+Italy,Europe,,2016-05,22
+Netherlands,Europe,,2016-05,87
+Switzerland,Europe,,2016-05,13
+Spain,Europe,,2016-05,27
+United Kingdom,Europe,,2016-05,42
+Austria,Europe,,2016-05,16
+Greece,Europe,,2016-05,0
+Sweden,Europe,,2016-05,46
+Russian Federation,Europe,,2016-05,9
+"Others, Europe",Europe,,2016-05,80
+Australia,Oceania,,2016-05,33
+New Zealand,Oceania,,2016-05,2
+"Others, Oceania",Oceania,,2016-05,4
+S. Africa,Africa,,2016-05,4
+"Others, Africa",Africa,,2016-05,16
+"Others, America",America,,2016-05,49
+Unstated,,,2016-05,0
+Argentina,America,,2016-05,3
+Indonesia,Asia,Southeast Asia,2016-05,67
+"Korea,Republic of",Asia,,2016-05,423
+India,Asia,,2016-05,61
+Middle East,Asia,,2016-05,15
+Malaysia,Asia,Southeast Asia,2016-05,90
+Singapore,Asia,Southeast Asia,2016-05,168
+Brazil,America,,2016-05,11
+Philippines,Asia,Southeast Asia,2016-05,44
+Thailand,Asia,Southeast Asia,2016-05,118
+Vietnam,Asia,Southeast Asia,2016-05,71
+"Others, Southeast Asia",Asia,Southeast Asia,2016-05,10
+"Others, Asia",Asia,,2016-05,46
+Canada,America,,2016-05,68
+HongKong. Macao,Asia,,2016-05,158
+United States of America,America,,2016-05,450
+Mexico,America,,2016-05,14
+Japan,Asia,,2016-05,329
+Mainland China,Asia,,2016-05,1020
+"Others, Southeast Asia",Asia,Southeast Asia,2016-06,10
+"Others, Asia",Asia,,2016-06,17
+Vietnam,Asia,Southeast Asia,2016-06,95
+Middle East,Asia,,2016-06,26
+Malaysia,Asia,Southeast Asia,2016-06,111
+Indonesia,Asia,Southeast Asia,2016-06,303
+Canada,America,,2016-06,69
+Mainland China,Asia,,2016-06,659
+HongKong. Macao,Asia,,2016-06,362
+Philippines,Asia,Southeast Asia,2016-06,44
+United States of America,America,,2016-06,803
+Thailand,Asia,Southeast Asia,2016-06,216
+Brazil,America,,2016-06,4
+Singapore,Asia,Southeast Asia,2016-06,92
+Mexico,America,,2016-06,7
+Unstated,,,2016-06,0
+"Others, Africa",Africa,,2016-06,18
+S. Africa,Africa,,2016-06,3
+"Others, Oceania",Oceania,,2016-06,6
+New Zealand,Oceania,,2016-06,8
+"Korea,Republic of",Asia,,2016-06,390
+"Others, Europe",Europe,,2016-06,65
+Russian Federation,Europe,,2016-06,19
+Sweden,Europe,,2016-06,14
+Japan,Asia,,2016-06,312
+India,Asia,,2016-06,23
+Austria,Europe,,2016-06,18
+Argentina,America,,2016-06,3
+Greece,Europe,,2016-06,0
+"Others, America",America,,2016-06,21
+Belgium,Europe,,2016-06,12
+France,Europe,,2016-06,193
+Germany,Europe,,2016-06,54
+Australia,Oceania,,2016-06,32
+Netherlands,Europe,,2016-06,28
+United Kingdom,Europe,,2016-06,45
+Spain,Europe,,2016-06,30
+Switzerland,Europe,,2016-06,8
+Italy,Europe,,2016-06,24
+"Others, America",America,,2016-07,23
+Argentina,America,,2016-07,3
+Brazil,America,,2016-07,7
+Mexico,America,,2016-07,26
+United States of America,America,,2016-07,431
+Canada,America,,2016-07,38
+"Others, Asia",Asia,,2016-07,14
+Vietnam,Asia,Southeast Asia,2016-07,207
+Thailand,Asia,Southeast Asia,2016-07,122
+Philippines,Asia,Southeast Asia,2016-07,27
+Indonesia,Asia,Southeast Asia,2016-07,167
+Singapore,Asia,Southeast Asia,2016-07,53
+Malaysia,Asia,Southeast Asia,2016-07,233
+Middle East,Asia,,2016-07,12
+"Others, Southeast Asia",Asia,Southeast Asia,2016-07,32
+Belgium,Europe,,2016-07,18
+Germany,Europe,,2016-07,102
+Italy,Europe,,2016-07,30
+"Others, Europe",Europe,,2016-07,91
+Russian Federation,Europe,,2016-07,34
+Australia,Oceania,,2016-07,51
+New Zealand,Oceania,,2016-07,5
+"Others, Oceania",Oceania,,2016-07,9
+S. Africa,Africa,,2016-07,2
+France,Europe,,2016-07,159
+"Others, Africa",Africa,,2016-07,15
+Sweden,Europe,,2016-07,11
+Greece,Europe,,2016-07,3
+Austria,Europe,,2016-07,23
+United Kingdom,Europe,,2016-07,39
+Spain,Europe,,2016-07,42
+Netherlands,Europe,,2016-07,19
+HongKong. Macao,Asia,,2016-07,338
+Switzerland,Europe,,2016-07,13
+"Korea,Republic of",Asia,,2016-07,495
+Unstated,,,2016-07,0
+India,Asia,,2016-07,20
+Japan,Asia,,2016-07,288
+Mainland China,Asia,,2016-07,776
+Vietnam,Asia,Southeast Asia,2016-08,170
+"Korea,Republic of",Asia,,2016-08,602
+India,Asia,,2016-08,30
+Middle East,Asia,,2016-08,36
+Malaysia,Asia,Southeast Asia,2016-08,278
+Singapore,Asia,Southeast Asia,2016-08,206
+Indonesia,Asia,Southeast Asia,2016-08,313
+Philippines,Asia,Southeast Asia,2016-08,33
+HongKong. Macao,Asia,,2016-08,1085
+Mainland China,Asia,,2016-08,1960
+Brazil,America,,2016-08,26
+Mexico,America,,2016-08,25
+United States of America,America,,2016-08,371
+Canada,America,,2016-08,47
+"Others, Asia",Asia,,2016-08,52
+"Others, Southeast Asia",Asia,Southeast Asia,2016-08,14
+Thailand,Asia,Southeast Asia,2016-08,125
+Argentina,America,,2016-08,3
+Japan,Asia,,2016-08,1043
+Austria,Europe,,2016-08,16
+"Others, Oceania",Oceania,,2016-08,13
+S. Africa,Africa,,2016-08,7
+"Others, Africa",Africa,,2016-08,40
+"Others, America",America,,2016-08,113
+"Others, Europe",Europe,,2016-08,120
+Russian Federation,Europe,,2016-08,30
+Sweden,Europe,,2016-08,18
+Greece,Europe,,2016-08,1
+New Zealand,Oceania,,2016-08,9
+Australia,Oceania,,2016-08,52
+Spain,Europe,,2016-08,49
+Switzerland,Europe,,2016-08,22
+Netherlands,Europe,,2016-08,55
+Italy,Europe,,2016-08,40
+Germany,Europe,,2016-08,124
+France,Europe,,2016-08,214
+Belgium,Europe,,2016-08,16
+Unstated,,,2016-08,0
+United Kingdom,Europe,,2016-08,55
+Austria,Europe,,2016-09,33
+United Kingdom,Europe,,2016-09,45
+Unstated,,,2016-09,0
+"Others, Oceania",Oceania,,2016-09,27
+Sweden,Europe,,2016-09,62
+Russian Federation,Europe,,2016-09,39
+"Others, Europe",Europe,,2016-09,183
+Australia,Oceania,,2016-09,72
+New Zealand,Oceania,,2016-09,11
+S. Africa,Africa,,2016-09,5
+"Others, Africa",Africa,,2016-09,73
+Greece,Europe,,2016-09,2
+Belgium,Europe,,2016-09,57
+France,Europe,,2016-09,258
+Canada,America,,2016-09,40
+Singapore,Asia,Southeast Asia,2016-09,357
+Indonesia,Asia,Southeast Asia,2016-09,321
+Philippines,Asia,Southeast Asia,2016-09,52
+Thailand,Asia,Southeast Asia,2016-09,133
+Vietnam,Asia,Southeast Asia,2016-09,167
+"Others, Southeast Asia",Asia,Southeast Asia,2016-09,23
+"Others, Asia",Asia,,2016-09,88
+HongKong. Macao,Asia,,2016-09,2543
+United States of America,America,,2016-09,279
+Mexico,America,,2016-09,22
+Malaysia,Asia,Southeast Asia,2016-09,472
+Brazil,America,,2016-09,6
+"Others, America",America,,2016-09,142
+Spain,Europe,,2016-09,75
+Switzerland,Europe,,2016-09,19
+Netherlands,Europe,,2016-09,80
+Italy,Europe,,2016-09,83
+India,Asia,,2016-09,69
+Germany,Europe,,2016-09,307
+"Korea,Republic of",Asia,,2016-09,702
+Japan,Asia,,2016-09,798
+Mainland China,Asia,,2016-09,7123
+Argentina,America,,2016-09,1
+Middle East,Asia,,2016-09,34
+Argentina,America,,2016-10,7
+Sweden,Europe,,2016-10,30
+Russian Federation,Europe,,2016-10,10
+"Others, Europe",Europe,,2016-10,101
+Unstated,,,2016-10,0
+HongKong. Macao,Asia,,2016-10,162
+Mainland China,Asia,,2016-10,999
+Japan,Asia,,2016-10,328
+"Others, America",America,,2016-10,82
+Belgium,Europe,,2016-10,30
+Mexico,America,,2016-10,6
+Germany,Europe,,2016-10,128
+Italy,Europe,,2016-10,54
+United States of America,America,,2016-10,160
+Netherlands,Europe,,2016-10,56
+Switzerland,Europe,,2016-10,17
+Spain,Europe,,2016-10,43
+United Kingdom,Europe,,2016-10,27
+Austria,Europe,,2016-10,11
+Greece,Europe,,2016-10,1
+"Others, Africa",Africa,,2016-10,8
+Canada,America,,2016-10,21
+"Others, Asia",Asia,,2016-10,25
+"Others, Southeast Asia",Asia,Southeast Asia,2016-10,21
+Vietnam,Asia,Southeast Asia,2016-10,58
+Thailand,Asia,Southeast Asia,2016-10,46
+Philippines,Asia,Southeast Asia,2016-10,28
+Indonesia,Asia,Southeast Asia,2016-10,47
+S. Africa,Africa,,2016-10,2
+"Others, Oceania",Oceania,,2016-10,7
+New Zealand,Oceania,,2016-10,4
+Australia,Oceania,,2016-10,12
+Singapore,Asia,Southeast Asia,2016-10,194
+Malaysia,Asia,Southeast Asia,2016-10,132
+Middle East,Asia,,2016-10,13
+India,Asia,,2016-10,16
+"Korea,Republic of",Asia,,2016-10,355
+Brazil,America,,2016-10,2
+France,Europe,,2016-10,163
+Indonesia,Asia,Southeast Asia,2016-11,96
+"Others, Africa",Africa,,2016-11,11
+Japan,Asia,,2016-11,412
+"Korea,Republic of",Asia,,2016-11,531
+India,Asia,,2016-11,19
+Malaysia,Asia,Southeast Asia,2016-11,100
+Singapore,Asia,Southeast Asia,2016-11,310
+Philippines,Asia,Southeast Asia,2016-11,24
+Thailand,Asia,Southeast Asia,2016-11,81
+Vietnam,Asia,Southeast Asia,2016-11,107
+"Others, Southeast Asia",Asia,Southeast Asia,2016-11,10
+"Others, Asia",Asia,,2016-11,26
+Canada,America,,2016-11,61
+Mainland China,Asia,,2016-11,1109
+United States of America,America,,2016-11,224
+Brazil,America,,2016-11,6
+Argentina,America,,2016-11,3
+"Others, America",America,,2016-11,17
+Belgium,Europe,,2016-11,46
+France,Europe,,2016-11,189
+Germany,Europe,,2016-11,199
+Italy,Europe,,2016-11,49
+Netherlands,Europe,,2016-11,79
+Switzerland,Europe,,2016-11,23
+Spain,Europe,,2016-11,67
+Unstated,,,2016-11,0
+Mexico,America,,2016-11,12
+HongKong. Macao,Asia,,2016-11,154
+Middle East,Asia,,2016-11,18
+Greece,Europe,,2016-11,0
+S. Africa,Africa,,2016-11,6
+"Others, Oceania",Oceania,,2016-11,1
+New Zealand,Oceania,,2016-11,10
+Australia,Oceania,,2016-11,71
+"Others, Europe",Europe,,2016-11,104
+United Kingdom,Europe,,2016-11,34
+Austria,Europe,,2016-11,26
+Russian Federation,Europe,,2016-11,10
+Sweden,Europe,,2016-11,47
+"Others, America",America,,2016-12,13
+Belgium,Europe,,2016-12,34
+France,Europe,,2016-12,137
+Germany,Europe,,2016-12,153
+Brazil,America,,2016-12,4
+Italy,Europe,,2016-12,53
+HongKong. Macao,Asia,,2016-12,216
+Switzerland,Europe,,2016-12,9
+Spain,Europe,,2016-12,42
+United Kingdom,Europe,,2016-12,25
+Austria,Europe,,2016-12,18
+Greece,Europe,,2016-12,1
+Sweden,Europe,,2016-12,22
+Russian Federation,Europe,,2016-12,3
+Mainland China,Asia,,2016-12,841
+Japan,Asia,,2016-12,417
+Singapore,Asia,Southeast Asia,2016-12,141
+India,Asia,,2016-12,14
+Middle East,Asia,,2016-12,9
+Malaysia,Asia,Southeast Asia,2016-12,107
+Mexico,America,,2016-12,6
+Indonesia,Asia,Southeast Asia,2016-12,73
+Philippines,Asia,Southeast Asia,2016-12,24
+Thailand,Asia,Southeast Asia,2016-12,61
+"Others, Europe",Europe,,2016-12,72
+Vietnam,Asia,Southeast Asia,2016-12,78
+"Others, Southeast Asia",Asia,Southeast Asia,2016-12,22
+"Others, Asia",Asia,,2016-12,7
+Canada,America,,2016-12,29
+United States of America,America,,2016-12,175
+Argentina,America,,2016-12,1
+"Korea,Republic of",Asia,,2016-12,586
+Australia,Oceania,,2016-12,67
+Netherlands,Europe,,2016-12,60
+"Others, Oceania",Oceania,,2016-12,0
+S. Africa,Africa,,2016-12,2
+"Others, Africa",Africa,,2016-12,38
+Unstated,,,2016-12,1
+New Zealand,Oceania,,2016-12,13
+"Others, America",America,,2017-01,51
+Argentina,America,,2017-01,1
+Brazil,America,,2017-01,17
+Mexico,America,,2017-01,17
+United States of America,America,,2017-01,222
+Canada,America,,2017-01,26
+Vietnam,Asia,Southeast Asia,2017-01,25
+"Others, Southeast Asia",Asia,Southeast Asia,2017-01,4
+Belgium,Europe,,2017-01,36
+Philippines,Asia,Southeast Asia,2017-01,19
+Indonesia,Asia,Southeast Asia,2017-01,25
+Singapore,Asia,Southeast Asia,2017-01,46
+Malaysia,Asia,Southeast Asia,2017-01,61
+"Others, Asia",Asia,,2017-01,4
+France,Europe,,2017-01,121
+Italy,Europe,,2017-01,42
+Middle East,Asia,,2017-01,8
+Unstated,,,2017-01,0
+"Others, Africa",Africa,,2017-01,11
+S. Africa,Africa,,2017-01,2
+"Others, Oceania",Oceania,,2017-01,3
+New Zealand,Oceania,,2017-01,4
+Australia,Oceania,,2017-01,34
+Germany,Europe,,2017-01,92
+"Others, Europe",Europe,,2017-01,67
+Greece,Europe,,2017-01,1
+Austria,Europe,,2017-01,12
+United Kingdom,Europe,,2017-01,27
+Spain,Europe,,2017-01,37
+Switzerland,Europe,,2017-01,8
+Netherlands,Europe,,2017-01,40
+Sweden,Europe,,2017-01,25
+India,Asia,,2017-01,15
+Thailand,Asia,Southeast Asia,2017-01,50
+Japan,Asia,,2017-01,274
+"Korea,Republic of",Asia,,2017-01,709
+Russian Federation,Europe,,2017-01,21
+Mainland China,Asia,,2017-01,468
+HongKong. Macao,Asia,,2017-01,127
+Philippines,Asia,Southeast Asia,2017-02,51
+Australia,Oceania,,2017-02,42
+New Zealand,Oceania,,2017-02,8
+"Others, Oceania",Oceania,,2017-02,10
+S. Africa,Africa,,2017-02,1
+"Others, Africa",Africa,,2017-02,32
+Unstated,,,2017-02,1
+Indonesia,Asia,Southeast Asia,2017-02,228
+Singapore,Asia,Southeast Asia,2017-02,106
+Malaysia,Asia,Southeast Asia,2017-02,410
+Middle East,Asia,,2017-02,18
+India,Asia,,2017-02,67
+"Korea,Republic of",Asia,,2017-02,875
+Japan,Asia,,2017-02,729
+Mainland China,Asia,,2017-02,8600
+HongKong. Macao,Asia,,2017-02,239
+Sweden,Europe,,2017-02,45
+Greece,Europe,,2017-02,0
+"Others, Europe",Europe,,2017-02,156
+United Kingdom,Europe,,2017-02,48
+Thailand,Asia,Southeast Asia,2017-02,188
+Vietnam,Asia,Southeast Asia,2017-02,231
+"Others, Southeast Asia",Asia,Southeast Asia,2017-02,15
+"Others, Asia",Asia,,2017-02,59
+Austria,Europe,,2017-02,24
+United States of America,America,,2017-02,221
+Mexico,America,,2017-02,25
+Brazil,America,,2017-02,7
+Canada,America,,2017-02,65
+"Others, America",America,,2017-02,45
+Argentina,America,,2017-02,2
+Spain,Europe,,2017-02,66
+Switzerland,Europe,,2017-02,40
+Netherlands,Europe,,2017-02,65
+Russian Federation,Europe,,2017-02,16
+Germany,Europe,,2017-02,184
+France,Europe,,2017-02,256
+Belgium,Europe,,2017-02,30
+Italy,Europe,,2017-02,53
+HongKong. Macao,Asia,,2017-03,167
+Mainland China,Asia,,2017-03,833
+Japan,Asia,,2017-03,797
+"Korea,Republic of",Asia,,2017-03,477
+India,Asia,,2017-03,14
+Middle East,Asia,,2017-03,25
+S. Africa,Africa,,2017-03,5
+"Others, Africa",Africa,,2017-03,23
+"Others, Asia",Asia,,2017-03,23
+Indonesia,Asia,Southeast Asia,2017-03,59
+Philippines,Asia,Southeast Asia,2017-03,47
+Thailand,Asia,Southeast Asia,2017-03,216
+Vietnam,Asia,Southeast Asia,2017-03,142
+"Others, Southeast Asia",Asia,Southeast Asia,2017-03,14
+Canada,America,,2017-03,43
+United States of America,America,,2017-03,272
+Mexico,America,,2017-03,7
+Brazil,America,,2017-03,3
+Malaysia,Asia,Southeast Asia,2017-03,104
+"Others, America",America,,2017-03,53
+Belgium,Europe,,2017-03,10
+France,Europe,,2017-03,141
+Germany,Europe,,2017-03,96
+Argentina,America,,2017-03,4
+Netherlands,Europe,,2017-03,20
+Unstated,,,2017-03,0
+"Others, Oceania",Oceania,,2017-03,4
+Italy,Europe,,2017-03,30
+Australia,Oceania,,2017-03,15
+"Others, Europe",Europe,,2017-03,75
+Russian Federation,Europe,,2017-03,8
+New Zealand,Oceania,,2017-03,6
+Greece,Europe,,2017-03,0
+Austria,Europe,,2017-03,18
+United Kingdom,Europe,,2017-03,34
+Spain,Europe,,2017-03,10
+Switzerland,Europe,,2017-03,8
+Sweden,Europe,,2017-03,26
+Singapore,Asia,Southeast Asia,2017-03,149
+Singapore,Asia,Southeast Asia,2017-04,57
+Malaysia,Asia,Southeast Asia,2017-04,83
+Germany,Europe,,2017-04,120
+Middle East,Asia,,2017-04,12
+India,Asia,,2017-04,11
+"Korea,Republic of",Asia,,2017-04,413
+Japan,Asia,,2017-04,240
+Mainland China,Asia,,2017-04,2876
+France,Europe,,2017-04,228
+Greece,Europe,,2017-04,0
+Austria,Europe,,2017-04,40
+United Kingdom,Europe,,2017-04,27
+Spain,Europe,,2017-04,36
+Switzerland,Europe,,2017-04,17
+Netherlands,Europe,,2017-04,62
+Italy,Europe,,2017-04,43
+Indonesia,Asia,Southeast Asia,2017-04,40
+HongKong. Macao,Asia,,2017-04,237
+Philippines,Asia,Southeast Asia,2017-04,143
+New Zealand,Oceania,,2017-04,11
+Vietnam,Asia,Southeast Asia,2017-04,104
+Argentina,America,,2017-04,4
+Brazil,America,,2017-04,5
+Unstated,,,2017-04,1
+"Others, Africa",Africa,,2017-04,15
+S. Africa,Africa,,2017-04,5
+Thailand,Asia,Southeast Asia,2017-04,93
+"Others, Oceania",Oceania,,2017-04,6
+"Others, America",America,,2017-04,47
+Belgium,Europe,,2017-04,18
+"Others, Europe",Europe,,2017-04,105
+Russian Federation,Europe,,2017-04,1
+Sweden,Europe,,2017-04,39
+Mexico,America,,2017-04,9
+United States of America,America,,2017-04,232
+Canada,America,,2017-04,33
+"Others, Asia",Asia,,2017-04,17
+"Others, Southeast Asia",Asia,Southeast Asia,2017-04,15
+Australia,Oceania,,2017-04,29
+"Korea,Republic of",Asia,,2017-05,443
+India,Asia,,2017-05,42
+HongKong. Macao,Asia,,2017-05,234
+Mainland China,Asia,,2017-05,1238
+Middle East,Asia,,2017-05,16
+Japan,Asia,,2017-05,288
+Malaysia,Asia,Southeast Asia,2017-05,92
+Mexico,America,,2017-05,9
+Indonesia,Asia,Southeast Asia,2017-05,60
+Canada,America,,2017-05,58
+"Others, Asia",Asia,,2017-05,27
+"Others, Southeast Asia",Asia,Southeast Asia,2017-05,7
+Vietnam,Asia,Southeast Asia,2017-05,82
+Unstated,,,2017-05,1
+"Others, Africa",Africa,,2017-05,18
+S. Africa,Africa,,2017-05,2
+"Others, Oceania",Oceania,,2017-05,4
+New Zealand,Oceania,,2017-05,10
+Australia,Oceania,,2017-05,23
+"Others, Europe",Europe,,2017-05,89
+Russian Federation,Europe,,2017-05,8
+Sweden,Europe,,2017-05,22
+Singapore,Asia,Southeast Asia,2017-05,98
+Greece,Europe,,2017-05,0
+Spain,Europe,,2017-05,36
+Switzerland,Europe,,2017-05,19
+Netherlands,Europe,,2017-05,33
+Italy,Europe,,2017-05,40
+Germany,Europe,,2017-05,82
+France,Europe,,2017-05,183
+Belgium,Europe,,2017-05,13
+"Others, America",America,,2017-05,40
+Argentina,America,,2017-05,1
+Brazil,America,,2017-05,3
+Thailand,Asia,Southeast Asia,2017-05,142
+Philippines,Asia,Southeast Asia,2017-05,105
+United States of America,America,,2017-05,502
+Austria,Europe,,2017-05,13
+United Kingdom,Europe,,2017-05,42
+Malaysia,Asia,Southeast Asia,2017-06,71
+S. Africa,Africa,,2017-06,2
+United States of America,America,,2017-06,752
+Canada,America,,2017-06,35
+"Others, Asia",Asia,,2017-06,19
+"Others, Southeast Asia",Asia,Southeast Asia,2017-06,8
+Vietnam,Asia,Southeast Asia,2017-06,124
+Thailand,Asia,Southeast Asia,2017-06,246
+Philippines,Asia,Southeast Asia,2017-06,89
+Indonesia,Asia,Southeast Asia,2017-06,316
+Singapore,Asia,Southeast Asia,2017-06,70
+India,Asia,,2017-06,24
+"Korea,Republic of",Asia,,2017-06,423
+Unstated,,,2017-06,0
+Japan,Asia,,2017-06,378
+Mainland China,Asia,,2017-06,862
+HongKong. Macao,Asia,,2017-06,238
+Mexico,America,,2017-06,18
+"Others, Africa",Africa,,2017-06,11
+Brazil,America,,2017-06,5
+"Others, America",America,,2017-06,54
+"Others, Oceania",Oceania,,2017-06,9
+New Zealand,Oceania,,2017-06,3
+Australia,Oceania,,2017-06,43
+"Others, Europe",Europe,,2017-06,122
+Russian Federation,Europe,,2017-06,20
+Sweden,Europe,,2017-06,21
+Greece,Europe,,2017-06,0
+Argentina,America,,2017-06,1
+Austria,Europe,,2017-06,11
+Spain,Europe,,2017-06,37
+Switzerland,Europe,,2017-06,19
+Netherlands,Europe,,2017-06,39
+Italy,Europe,,2017-06,18
+Germany,Europe,,2017-06,52
+France,Europe,,2017-06,199
+Belgium,Europe,,2017-06,9
+United Kingdom,Europe,,2017-06,34
+Middle East,Asia,,2017-06,26
+Unstated,,,2017-07,0
+France,Europe,,2017-07,137
+"Others, Africa",Africa,,2017-07,29
+S. Africa,Africa,,2017-07,3
+New Zealand,Oceania,,2017-07,3
+Germany,Europe,,2017-07,77
+Indonesia,Asia,Southeast Asia,2017-07,117
+Philippines,Asia,Southeast Asia,2017-07,37
+Thailand,Asia,Southeast Asia,2017-07,264
+Vietnam,Asia,Southeast Asia,2017-07,274
+"Others, Southeast Asia",Asia,Southeast Asia,2017-07,30
+"Others, Asia",Asia,,2017-07,25
+Singapore,Asia,Southeast Asia,2017-07,82
+"Others, Oceania",Oceania,,2017-07,4
+Russian Federation,Europe,,2017-07,24
+"Others, America",America,,2017-07,29
+Argentina,America,,2017-07,3
+Brazil,America,,2017-07,6
+Mexico,America,,2017-07,16
+United States of America,America,,2017-07,533
+Belgium,Europe,,2017-07,14
+Malaysia,Asia,Southeast Asia,2017-07,195
+Canada,America,,2017-07,58
+India,Asia,,2017-07,26
+Middle East,Asia,,2017-07,19
+Australia,Oceania,,2017-07,32
+"Others, Europe",Europe,,2017-07,132
+Sweden,Europe,,2017-07,14
+Greece,Europe,,2017-07,2
+Austria,Europe,,2017-07,19
+Spain,Europe,,2017-07,34
+United Kingdom,Europe,,2017-07,37
+Switzerland,Europe,,2017-07,20
+Netherlands,Europe,,2017-07,27
+Italy,Europe,,2017-07,39
+HongKong. Macao,Asia,,2017-07,372
+Mainland China,Asia,,2017-07,855
+Japan,Asia,,2017-07,386
+"Korea,Republic of",Asia,,2017-07,583
+Italy,Europe,,2017-08,33
+Austria,Europe,,2017-08,22
+Netherlands,Europe,,2017-08,51
+Switzerland,Europe,,2017-08,15
+Spain,Europe,,2017-08,31
+United Kingdom,Europe,,2017-08,34
+France,Europe,,2017-08,178
+Greece,Europe,,2017-08,2
+"Others, Africa",Africa,,2017-08,14
+Russian Federation,Europe,,2017-08,50
+"Others, Europe",Europe,,2017-08,126
+Australia,Oceania,,2017-08,25
+New Zealand,Oceania,,2017-08,3
+"Others, Oceania",Oceania,,2017-08,14
+S. Africa,Africa,,2017-08,5
+Unstated,,,2017-08,1
+Belgium,Europe,,2017-08,30
+Sweden,Europe,,2017-08,30
+"Others, America",America,,2017-08,68
+Germany,Europe,,2017-08,135
+Brazil,America,,2017-08,18
+Argentina,America,,2017-08,1
+Mainland China,Asia,,2017-08,1498
+Japan,Asia,,2017-08,1149
+"Korea,Republic of",Asia,,2017-08,468
+India,Asia,,2017-08,35
+Middle East,Asia,,2017-08,32
+Malaysia,Asia,Southeast Asia,2017-08,227
+Singapore,Asia,Southeast Asia,2017-08,70
+Indonesia,Asia,Southeast Asia,2017-08,240
+HongKong. Macao,Asia,,2017-08,583
+Thailand,Asia,Southeast Asia,2017-08,148
+Vietnam,Asia,Southeast Asia,2017-08,238
+"Others, Southeast Asia",Asia,Southeast Asia,2017-08,19
+"Others, Asia",Asia,,2017-08,59
+Canada,America,,2017-08,53
+United States of America,America,,2017-08,310
+Mexico,America,,2017-08,20
+Philippines,Asia,Southeast Asia,2017-08,63
+S. Africa,Africa,,2017-09,3
+"Others, Oceania",Oceania,,2017-09,24
+New Zealand,Oceania,,2017-09,8
+Belgium,Europe,,2017-09,60
+Australia,Oceania,,2017-09,45
+"Others, Europe",Europe,,2017-09,200
+Russian Federation,Europe,,2017-09,38
+Sweden,Europe,,2017-09,70
+United Kingdom,Europe,,2017-09,25
+Austria,Europe,,2017-09,27
+Spain,Europe,,2017-09,65
+France,Europe,,2017-09,246
+Germany,Europe,,2017-09,314
+Switzerland,Europe,,2017-09,21
+Italy,Europe,,2017-09,77
+"Others, Africa",Africa,,2017-09,42
+Netherlands,Europe,,2017-09,84
+Greece,Europe,,2017-09,2
+Unstated,,,2017-09,1
+Vietnam,Asia,Southeast Asia,2017-09,270
+Argentina,America,,2017-09,2
+HongKong. Macao,Asia,,2017-09,2343
+Mainland China,Asia,,2017-09,7596
+Japan,Asia,,2017-09,774
+"Korea,Republic of",Asia,,2017-09,666
+India,Asia,,2017-09,72
+Middle East,Asia,,2017-09,32
+"Others, America",America,,2017-09,96
+Singapore,Asia,Southeast Asia,2017-09,143
+Malaysia,Asia,Southeast Asia,2017-09,538
+Philippines,Asia,Southeast Asia,2017-09,72
+Thailand,Asia,Southeast Asia,2017-09,207
+"Others, Southeast Asia",Asia,Southeast Asia,2017-09,21
+"Others, Asia",Asia,,2017-09,80
+Canada,America,,2017-09,45
+United States of America,America,,2017-09,240
+Mexico,America,,2017-09,18
+Brazil,America,,2017-09,10
+Indonesia,Asia,Southeast Asia,2017-09,427
+S. Africa,Africa,,2017-10,1
+Unstated,,,2017-10,0
+"Others, Africa",Africa,,2017-10,39
+"Others, Oceania",Oceania,,2017-10,3
+Indonesia,Asia,Southeast Asia,2017-10,89
+Australia,Oceania,,2017-10,29
+HongKong. Macao,Asia,,2017-10,147
+Japan,Asia,,2017-10,506
+"Korea,Republic of",Asia,,2017-10,407
+India,Asia,,2017-10,26
+Middle East,Asia,,2017-10,10
+Malaysia,Asia,Southeast Asia,2017-10,131
+Singapore,Asia,Southeast Asia,2017-10,75
+Philippines,Asia,Southeast Asia,2017-10,60
+Thailand,Asia,Southeast Asia,2017-10,162
+Vietnam,Asia,Southeast Asia,2017-10,127
+"Others, Southeast Asia",Asia,Southeast Asia,2017-10,13
+"Others, Asia",Asia,,2017-10,86
+Canada,America,,2017-10,33
+United States of America,America,,2017-10,196
+Mexico,America,,2017-10,11
+Brazil,America,,2017-10,1
+Argentina,America,,2017-10,6
+"Others, Europe",Europe,,2017-10,103
+Russian Federation,Europe,,2017-10,10
+Sweden,Europe,,2017-10,63
+Greece,Europe,,2017-10,2
+Austria,Europe,,2017-10,15
+United Kingdom,Europe,,2017-10,22
+New Zealand,Oceania,,2017-10,4
+Spain,Europe,,2017-10,30
+Netherlands,Europe,,2017-10,80
+Italy,Europe,,2017-10,40
+Germany,Europe,,2017-10,198
+France,Europe,,2017-10,176
+Belgium,Europe,,2017-10,58
+"Others, America",America,,2017-10,60
+Switzerland,Europe,,2017-10,19
+Mainland China,Asia,,2017-10,1453
+HongKong. Macao,Asia,,2017-11,150
+Unstated,,,2017-11,0
+France,Europe,,2017-11,170
+Germany,Europe,,2017-11,219
+Italy,Europe,,2017-11,36
+Netherlands,Europe,,2017-11,71
+Switzerland,Europe,,2017-11,18
+Spain,Europe,,2017-11,45
+United Kingdom,Europe,,2017-11,23
+Belgium,Europe,,2017-11,44
+Austria,Europe,,2017-11,30
+Sweden,Europe,,2017-11,54
+Russian Federation,Europe,,2017-11,19
+"Others, Europe",Europe,,2017-11,95
+Australia,Oceania,,2017-11,75
+New Zealand,Oceania,,2017-11,8
+"Others, Oceania",Oceania,,2017-11,10
+S. Africa,Africa,,2017-11,5
+Greece,Europe,,2017-11,0
+"Others, America",America,,2017-11,41
+"Others, Africa",Africa,,2017-11,20
+Brazil,America,,2017-11,4
+Mainland China,Asia,,2017-11,1294
+Japan,Asia,,2017-11,491
+"Korea,Republic of",Asia,,2017-11,503
+India,Asia,,2017-11,33
+Argentina,America,,2017-11,2
+Malaysia,Asia,Southeast Asia,2017-11,124
+Singapore,Asia,Southeast Asia,2017-11,242
+Indonesia,Asia,Southeast Asia,2017-11,110
+Middle East,Asia,,2017-11,19
+Thailand,Asia,Southeast Asia,2017-11,114
+Vietnam,Asia,Southeast Asia,2017-11,331
+"Others, Southeast Asia",Asia,Southeast Asia,2017-11,36
+"Others, Asia",Asia,,2017-11,55
+Canada,America,,2017-11,45
+United States of America,America,,2017-11,263
+Mexico,America,,2017-11,12
+Philippines,Asia,Southeast Asia,2017-11,39
+France,Europe,,2017-12,177
+Germany,Europe,,2017-12,168
+Italy,Europe,,2017-12,29
+Netherlands,Europe,,2017-12,54
+Switzerland,Europe,,2017-12,9
+Spain,Europe,,2017-12,33
+United Kingdom,Europe,,2017-12,19
+S. Africa,Africa,,2017-12,0
+Greece,Europe,,2017-12,1
+Sweden,Europe,,2017-12,46
+Russian Federation,Europe,,2017-12,8
+"Others, Europe",Europe,,2017-12,83
+Australia,Oceania,,2017-12,63
+New Zealand,Oceania,,2017-12,7
+"Others, Oceania",Oceania,,2017-12,1
+"Others, America",America,,2017-12,19
+Austria,Europe,,2017-12,30
+Argentina,America,,2017-12,3
+Philippines,Asia,Southeast Asia,2017-12,41
+Mexico,America,,2017-12,4
+"Others, Africa",Africa,,2017-12,24
+HongKong. Macao,Asia,,2017-12,166
+Mainland China,Asia,,2017-12,1099
+Japan,Asia,,2017-12,352
+"Korea,Republic of",Asia,,2017-12,543
+India,Asia,,2017-12,107
+Middle East,Asia,,2017-12,14
+Brazil,America,,2017-12,8
+Malaysia,Asia,Southeast Asia,2017-12,94
+Indonesia,Asia,Southeast Asia,2017-12,161
+Thailand,Asia,Southeast Asia,2017-12,222
+Vietnam,Asia,Southeast Asia,2017-12,141
+"Others, Southeast Asia",Asia,Southeast Asia,2017-12,16
+"Others, Asia",Asia,,2017-12,24
+Canada,America,,2017-12,35
+United States of America,America,,2017-12,185
+Singapore,Asia,Southeast Asia,2017-12,113
+Unstated,,,2017-12,0
+Belgium,Europe,,2017-12,41
+Unstated,,,2018-01,0
+Mexico,America,,2018-01,6
+United States of America,America,,2018-01,270
+Canada,America,,2018-01,31
+"Others, Asia",Asia,,2018-01,20
+"Others, Southeast Asia",Asia,Southeast Asia,2018-01,5
+Vietnam,Asia,Southeast Asia,2018-01,111
+Thailand,Asia,Southeast Asia,2018-01,86
+Philippines,Asia,Southeast Asia,2018-01,89
+Indonesia,Asia,Southeast Asia,2018-01,63
+Singapore,Asia,Southeast Asia,2018-01,34
+Malaysia,Asia,Southeast Asia,2018-01,95
+Middle East,Asia,,2018-01,13
+India,Asia,,2018-01,67
+"Korea,Republic of",Asia,,2018-01,901
+Japan,Asia,,2018-01,287
+Brazil,America,,2018-01,5
+Mainland China,Asia,,2018-01,774
+Argentina,America,,2018-01,3
+Belgium,Europe,,2018-01,44
+"Others, Oceania",Oceania,,2018-01,4
+New Zealand,Oceania,,2018-01,9
+Australia,Oceania,,2018-01,27
+"Others, Europe",Europe,,2018-01,67
+Russian Federation,Europe,,2018-01,7
+Sweden,Europe,,2018-01,21
+Greece,Europe,,2018-01,1
+Austria,Europe,,2018-01,27
+United Kingdom,Europe,,2018-01,40
+Spain,Europe,,2018-01,32
+Switzerland,Europe,,2018-01,5
+Netherlands,Europe,,2018-01,32
+Italy,Europe,,2018-01,32
+Germany,Europe,,2018-01,103
+France,Europe,,2018-01,118
+"Others, America",America,,2018-01,24
+HongKong. Macao,Asia,,2018-01,170
+"Others, Africa",Africa,,2018-01,22
+S. Africa,Africa,,2018-01,0
+"Others, America",America,,2018-02,23
+Belgium,Europe,,2018-02,31
+France,Europe,,2018-02,340
+Germany,Europe,,2018-02,198
+Italy,Europe,,2018-02,63
+Netherlands,Europe,,2018-02,64
+Switzerland,Europe,,2018-02,20
+Argentina,America,,2018-02,3
+"Others, Africa",Africa,,2018-02,22
+Austria,Europe,,2018-02,18
+Greece,Europe,,2018-02,1
+Sweden,Europe,,2018-02,31
+Russian Federation,Europe,,2018-02,19
+"Others, Europe",Europe,,2018-02,146
+Australia,Oceania,,2018-02,31
+New Zealand,Oceania,,2018-02,6
+United Kingdom,Europe,,2018-02,35
+Spain,Europe,,2018-02,51
+Brazil,America,,2018-02,8
+United States of America,America,,2018-02,306
+HongKong. Macao,Asia,,2018-02,162
+Mainland China,Asia,,2018-02,7047
+Japan,Asia,,2018-02,621
+"Korea,Republic of",Asia,,2018-02,604
+India,Asia,,2018-02,81
+Middle East,Asia,,2018-02,26
+Malaysia,Asia,Southeast Asia,2018-02,252
+Singapore,Asia,Southeast Asia,2018-02,140
+Indonesia,Asia,Southeast Asia,2018-02,190
+Philippines,Asia,Southeast Asia,2018-02,204
+Thailand,Asia,Southeast Asia,2018-02,248
+Vietnam,Asia,Southeast Asia,2018-02,157
+"Others, Southeast Asia",Asia,Southeast Asia,2018-02,12
+"Others, Asia",Asia,,2018-02,44
+Canada,America,,2018-02,56
+Mexico,America,,2018-02,19
+Unstated,,,2018-02,2
+S. Africa,Africa,,2018-02,8
+"Others, Oceania",Oceania,,2018-02,5
+Mainland China,Asia,,2018-03,2168
+United States of America,America,,2018-03,275
+Canada,America,,2018-03,29
+"Others, Asia",Asia,,2018-03,34
+"Others, Southeast Asia",Asia,Southeast Asia,2018-03,22
+Vietnam,Asia,Southeast Asia,2018-03,374
+Thailand,Asia,Southeast Asia,2018-03,311
+Philippines,Asia,Southeast Asia,2018-03,96
+Indonesia,Asia,Southeast Asia,2018-03,175
+Singapore,Asia,Southeast Asia,2018-03,109
+Malaysia,Asia,Southeast Asia,2018-03,126
+Middle East,Asia,,2018-03,4
+India,Asia,,2018-03,76
+"Korea,Republic of",Asia,,2018-03,373
+HongKong. Macao,Asia,,2018-03,237
+Unstated,,,2018-03,0
+Mexico,America,,2018-03,2
+Brazil,America,,2018-03,5
+Argentina,America,,2018-03,4
+Greece,Europe,,2018-03,0
+"Others, Africa",Africa,,2018-03,15
+S. Africa,Africa,,2018-03,2
+"Others, Oceania",Oceania,,2018-03,6
+New Zealand,Oceania,,2018-03,3
+Australia,Oceania,,2018-03,38
+"Others, Europe",Europe,,2018-03,39
+Russian Federation,Europe,,2018-03,11
+Sweden,Europe,,2018-03,13
+"Others, America",America,,2018-03,56
+Japan,Asia,,2018-03,577
+United Kingdom,Europe,,2018-03,20
+Spain,Europe,,2018-03,18
+Switzerland,Europe,,2018-03,10
+Netherlands,Europe,,2018-03,13
+Italy,Europe,,2018-03,9
+Germany,Europe,,2018-03,80
+France,Europe,,2018-03,44
+Belgium,Europe,,2018-03,6
+Austria,Europe,,2018-03,6
+Unstated,,,2018-04,0
+"Others, Oceania",Oceania,,2018-04,2
+HongKong. Macao,Asia,,2018-04,206
+Belgium,Europe,,2018-04,11
+France,Europe,,2018-04,315
+Germany,Europe,,2018-04,125
+Italy,Europe,,2018-04,22
+Netherlands,Europe,,2018-04,55
+Switzerland,Europe,,2018-04,8
+Spain,Europe,,2018-04,34
+United Kingdom,Europe,,2018-04,8
+Austria,Europe,,2018-04,11
+Greece,Europe,,2018-04,1
+Sweden,Europe,,2018-04,42
+Russian Federation,Europe,,2018-04,4
+"Others, Europe",Europe,,2018-04,84
+Australia,Oceania,,2018-04,25
+New Zealand,Oceania,,2018-04,14
+"Others, America",America,,2018-04,25
+S. Africa,Africa,,2018-04,0
+Argentina,America,,2018-04,3
+Mexico,America,,2018-04,6
+Mainland China,Asia,,2018-04,3242
+Japan,Asia,,2018-04,265
+"Korea,Republic of",Asia,,2018-04,325
+India,Asia,,2018-04,54
+Middle East,Asia,,2018-04,8
+Malaysia,Asia,Southeast Asia,2018-04,89
+Singapore,Asia,Southeast Asia,2018-04,74
+Indonesia,Asia,Southeast Asia,2018-04,112
+Philippines,Asia,Southeast Asia,2018-04,175
+Thailand,Asia,Southeast Asia,2018-04,122
+Vietnam,Asia,Southeast Asia,2018-04,140
+"Others, Southeast Asia",Asia,Southeast Asia,2018-04,5
+"Others, Asia",Asia,,2018-04,11
+Canada,America,,2018-04,51
+United States of America,America,,2018-04,261
+Brazil,America,,2018-04,3
+"Others, Africa",Africa,,2018-04,16
+"Others, Africa",Africa,,2018-05,12
+Unstated,,,2018-05,0
+Brazil,America,,2018-05,8
+Mexico,America,,2018-05,6
+United States of America,America,,2018-05,438
+Canada,America,,2018-05,54
+"Others, Asia",Asia,,2018-05,28
+"Others, Southeast Asia",Asia,Southeast Asia,2018-05,16
+Vietnam,Asia,Southeast Asia,2018-05,136
+Thailand,Asia,Southeast Asia,2018-05,191
+Philippines,Asia,Southeast Asia,2018-05,135
+Indonesia,Asia,Southeast Asia,2018-05,83
+Singapore,Asia,Southeast Asia,2018-05,148
+Malaysia,Asia,Southeast Asia,2018-05,70
+Middle East,Asia,,2018-05,12
+India,Asia,,2018-05,120
+"Korea,Republic of",Asia,,2018-05,390
+Argentina,America,,2018-05,4
+HongKong. Macao,Asia,,2018-05,189
+"Others, America",America,,2018-05,45
+Belgium,Europe,,2018-05,15
+S. Africa,Africa,,2018-05,0
+"Others, Oceania",Oceania,,2018-05,0
+New Zealand,Oceania,,2018-05,1
+Australia,Oceania,,2018-05,21
+"Others, Europe",Europe,,2018-05,87
+Russian Federation,Europe,,2018-05,8
+Sweden,Europe,,2018-05,14
+Japan,Asia,,2018-05,332
+Greece,Europe,,2018-05,0
+United Kingdom,Europe,,2018-05,34
+Spain,Europe,,2018-05,27
+Switzerland,Europe,,2018-05,21
+Netherlands,Europe,,2018-05,40
+Italy,Europe,,2018-05,26
+Germany,Europe,,2018-05,113
+France,Europe,,2018-05,232
+Austria,Europe,,2018-05,28
+Mainland China,Asia,,2018-05,1341
+"Others, Africa",Africa,,2018-06,16
+Unstated,,,2018-06,21
+Argentina,America,,2018-06,1
+Philippines,Asia,Southeast Asia,2018-06,141
+Mexico,America,,2018-06,14
+United States of America,America,,2018-06,716
+Canada,America,,2018-06,47
+"Others, Asia",Asia,,2018-06,50
+"Others, Southeast Asia",Asia,Southeast Asia,2018-06,7
+Vietnam,Asia,Southeast Asia,2018-06,175
+Thailand,Asia,Southeast Asia,2018-06,255
+Indonesia,Asia,Southeast Asia,2018-06,524
+Singapore,Asia,Southeast Asia,2018-06,152
+Malaysia,Asia,Southeast Asia,2018-06,165
+Middle East,Asia,,2018-06,21
+India,Asia,,2018-06,59
+"Korea,Republic of",Asia,,2018-06,378
+Japan,Asia,,2018-06,322
+HongKong. Macao,Asia,,2018-06,283
+Brazil,America,,2018-06,5
+"Others, America",America,,2018-06,35
+Mainland China,Asia,,2018-06,1086
+France,Europe,,2018-06,240
+S. Africa,Africa,,2018-06,1
+Belgium,Europe,,2018-06,10
+"Others, Oceania",Oceania,,2018-06,2
+New Zealand,Oceania,,2018-06,8
+Australia,Oceania,,2018-06,26
+Russian Federation,Europe,,2018-06,17
+Sweden,Europe,,2018-06,14
+Greece,Europe,,2018-06,0
+"Others, Europe",Europe,,2018-06,110
+Austria,Europe,,2018-06,13
+United Kingdom,Europe,,2018-06,44
+Spain,Europe,,2018-06,51
+Switzerland,Europe,,2018-06,8
+Netherlands,Europe,,2018-06,37
+Italy,Europe,,2018-06,17
+Germany,Europe,,2018-06,75
+Thailand,Asia,Southeast Asia,2018-07,376
+United States of America,America,,2018-07,608
+Canada,America,,2018-07,56
+"Others, Asia",Asia,,2018-07,27
+"Others, Southeast Asia",Asia,Southeast Asia,2018-07,16
+Vietnam,Asia,Southeast Asia,2018-07,282
+Mexico,America,,2018-07,12
+Philippines,Asia,Southeast Asia,2018-07,107
+Mainland China,Asia,,2018-07,915
+Singapore,Asia,Southeast Asia,2018-07,110
+Malaysia,Asia,Southeast Asia,2018-07,179
+Middle East,Asia,,2018-07,31
+India,Asia,,2018-07,105
+"Korea,Republic of",Asia,,2018-07,562
+Japan,Asia,,2018-07,402
+HongKong. Macao,Asia,,2018-07,434
+Brazil,America,,2018-07,3
+Indonesia,Asia,Southeast Asia,2018-07,265
+Argentina,America,,2018-07,4
+S. Africa,Africa,,2018-07,0
+Belgium,Europe,,2018-07,17
+Unstated,,,2018-07,2
+"Others, Africa",Africa,,2018-07,30
+"Others, Oceania",Oceania,,2018-07,13
+New Zealand,Oceania,,2018-07,4
+Australia,Oceania,,2018-07,50
+"Others, Europe",Europe,,2018-07,139
+Russian Federation,Europe,,2018-07,22
+Sweden,Europe,,2018-07,15
+Greece,Europe,,2018-07,6
+Austria,Europe,,2018-07,18
+United Kingdom,Europe,,2018-07,23
+Spain,Europe,,2018-07,46
+Switzerland,Europe,,2018-07,17
+Netherlands,Europe,,2018-07,45
+Italy,Europe,,2018-07,18
+Germany,Europe,,2018-07,72
+France,Europe,,2018-07,175
+"Others, America",America,,2018-07,72
+HongKong. Macao,Asia,,2018-08,922
+"Korea,Republic of",Asia,,2018-08,495
+France,Europe,,2018-08,214
+Netherlands,Europe,,2018-08,55
+Switzerland,Europe,,2018-08,29
+Spain,Europe,,2018-08,28
+United Kingdom,Europe,,2018-08,62
+Austria,Europe,,2018-08,17
+Greece,Europe,,2018-08,3
+Sweden,Europe,,2018-08,30
+Russian Federation,Europe,,2018-08,26
+"Others, Europe",Europe,,2018-08,127
+Australia,Oceania,,2018-08,29
+New Zealand,Oceania,,2018-08,12
+"Others, Oceania",Oceania,,2018-08,22
+S. Africa,Africa,,2018-08,4
+"Others, Africa",Africa,,2018-08,24
+Mainland China,Asia,,2018-08,1938
+Italy,Europe,,2018-08,42
+Germany,Europe,,2018-08,152
+Japan,Asia,,2018-08,1150
+Belgium,Europe,,2018-08,26
+India,Asia,,2018-08,81
+Middle East,Asia,,2018-08,32
+Malaysia,Asia,Southeast Asia,2018-08,369
+Singapore,Asia,Southeast Asia,2018-08,77
+Indonesia,Asia,Southeast Asia,2018-08,381
+Philippines,Asia,Southeast Asia,2018-08,123
+Thailand,Asia,Southeast Asia,2018-08,202
+Unstated,,,2018-08,1
+Vietnam,Asia,Southeast Asia,2018-08,286
+"Others, Asia",Asia,,2018-08,43
+Canada,America,,2018-08,52
+United States of America,America,,2018-08,323
+Mexico,America,,2018-08,27
+Brazil,America,,2018-08,21
+Argentina,America,,2018-08,5
+"Others, America",America,,2018-08,96
+"Others, Southeast Asia",Asia,Southeast Asia,2018-08,46
+Japan,Asia,,2018-09,779
+HongKong. Macao,Asia,,2018-09,1445
+"Others, Africa",Africa,,2018-09,42
+Brazil,America,,2018-09,9
+Mexico,America,,2018-09,22
+United States of America,America,,2018-09,239
+Canada,America,,2018-09,31
+"Others, Asia",Asia,,2018-09,101
+"Others, Southeast Asia",Asia,Southeast Asia,2018-09,30
+Vietnam,Asia,Southeast Asia,2018-09,457
+Thailand,Asia,Southeast Asia,2018-09,226
+Philippines,Asia,Southeast Asia,2018-09,73
+Indonesia,Asia,Southeast Asia,2018-09,490
+Singapore,Asia,Southeast Asia,2018-09,158
+Malaysia,Asia,Southeast Asia,2018-09,409
+Middle East,Asia,,2018-09,32
+India,Asia,,2018-09,127
+"Korea,Republic of",Asia,,2018-09,688
+Argentina,America,,2018-09,5
+Unstated,,,2018-09,2
+"Others, America",America,,2018-09,107
+France,Europe,,2018-09,328
+S. Africa,Africa,,2018-09,2
+"Others, Oceania",Oceania,,2018-09,15
+New Zealand,Oceania,,2018-09,11
+Australia,Oceania,,2018-09,50
+"Others, Europe",Europe,,2018-09,196
+Russian Federation,Europe,,2018-09,37
+Sweden,Europe,,2018-09,52
+Greece,Europe,,2018-09,1
+Austria,Europe,,2018-09,34
+United Kingdom,Europe,,2018-09,47
+Spain,Europe,,2018-09,89
+Switzerland,Europe,,2018-09,20
+Netherlands,Europe,,2018-09,92
+Italy,Europe,,2018-09,89
+Germany,Europe,,2018-09,358
+Belgium,Europe,,2018-09,76
+Mainland China,Asia,,2018-09,6745
